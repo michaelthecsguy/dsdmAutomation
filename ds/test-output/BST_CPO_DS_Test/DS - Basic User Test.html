@@ -1,0 +1,281 @@
+<html>
+<head>
+<title>TestNG:  DS - Basic User Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>DS - Basic User Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Mar 25 15:48:29 PDT 2015</td>
+</tr>
+<tr><td>Total time:</td><td>483 seconds (483749 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='bst.cpo.automation.ds.tests.RussTest.BSTCPO_2632_Test()'><b>BSTCPO_2632_Test</b><br>Test class: bst.cpo.automation.ds.tests.RussTest<br/>
+<a href="#Output-927046659" onClick='toggleBox("Output-927046659", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-927046659" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-927046659">
+DS Icon is Online and Synced.<br/>
+Updated file Force_Sync.txt with current date time.<br/>
+Waiting 60 seconds for sync to complete...<br/>
+</div>
+</td>
+<td></td>
+<td>13</td>
+<td>bst.cpo.automation.ds.tests.RussTest@b1e02d2</td></tr>
+<tr>
+<td title='bst.cpo.automation.ds.tests.RussTest.BSTCPO_2650_Test()'><b>BSTCPO_2650_Test</b><br>Test class: bst.cpo.automation.ds.tests.RussTest<br/>
+<a href="#Output-728611793" onClick='toggleBox("Output-728611793", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-728611793" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-728611793">
+Directory sequence created: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650<br/>
+Waiting 60 seconds for sync to complete...<br/>
+Testing file: FileTypeAVG.avg<br/>
+Copying file from: src\test\resources\FileTypeAVG.avg<br/>
+Copying file to: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeAVG.avg<br/>
+Verifying if file exists : C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeAVG.avg<br/>
+Expected file exists: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeAVG.avg<br/>
+Waiting 60 seconds for sync to complete...<br/>
+Testing file: FileTypeCAT.cat<br/>
+Copying file from: src\test\resources\FileTypeCAT.cat<br/>
+Copying file to: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeCAT.cat<br/>
+Verifying if file exists : C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeCAT.cat<br/>
+Expected file exists: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeCAT.cat<br/>
+Waiting 60 seconds for sync to complete...<br/>
+Testing file: FileTypeDOC.doc<br/>
+Copying file from: src\test\resources\FileTypeDOC.doc<br/>
+Copying file to: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeDOC.doc<br/>
+Verifying if file exists : C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeDOC.doc<br/>
+Expected file exists: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeDOC.doc<br/>
+Waiting 60 seconds for sync to complete...<br/>
+Testing file: FileTypeDOCX.docx<br/>
+Copying file from: src\test\resources\FileTypeDOCX.docx<br/>
+Copying file to: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeDOCX.docx<br/>
+Verifying if file exists : C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeDOCX.docx<br/>
+Expected file exists: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeDOCX.docx<br/>
+Waiting 60 seconds for sync to complete...<br/>
+Testing file: FileTypeDMG.dmg<br/>
+Copying file from: C:\Users\esquivelj\Cloud Portal Office\My Docs\Automation_Files\FileTypeDMG.dmg<br/>
+Copying file to: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeDMG.dmg<br/>
+Verifying if this file exists: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeDMG.dmg<br/>
+Expected file exists: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_2650\FileTypeDMG.dmg<br/>
+Waiting 300 seconds for sync to complete...<br/>
+Post-test clean up, wait for sync before continue.<br/>
+Waiting 60 seconds for sync to complete...<br/>
+</div>
+</td>
+<td></td>
+<td>286</td>
+<td>bst.cpo.automation.ds.tests.RussTest@b1e02d2</td></tr>
+<tr>
+<td title='bst.cpo.automation.ds.tests.RussTest.BSTCPO_3025_Test()'><b>BSTCPO_3025_Test</b><br>Test class: bst.cpo.automation.ds.tests.RussTest<br/>
+<a href="#Output-1116125961" onClick='toggleBox("Output-1116125961", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1116125961" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1116125961">
+Directory sequence created: C:\Users\esquivelj\Cloud Portal Office\My Docs\BSTCPO_3025<br/>
+Waiting 45 seconds for sync to complete...<br/>
+File created: TestFile_0.txt<br/>
+File created: TestFile_1.txt<br/>
+File created: TestFile_2.txt<br/>
+File created: TestFile_3.txt<br/>
+File created: TestFile_4.txt<br/>
+File created: TestFile_5.txt<br/>
+File created: TestFile_6.txt<br/>
+File created: TestFile_7.txt<br/>
+File created: TestFile_8.txt<br/>
+File created: TestFile_9.txt<br/>
+File created: TestFile_10.txt<br/>
+File created: TestFile_11.txt<br/>
+File created: TestFile_12.txt<br/>
+File created: TestFile_13.txt<br/>
+File created: TestFile_14.txt<br/>
+File created: TestFile_15.txt<br/>
+File created: TestFile_16.txt<br/>
+File created: TestFile_17.txt<br/>
+File created: TestFile_18.txt<br/>
+File created: TestFile_19.txt<br/>
+File created: TestFile_20.txt<br/>
+File created: TestFile_21.txt<br/>
+File created: TestFile_22.txt<br/>
+File created: TestFile_23.txt<br/>
+File created: TestFile_24.txt<br/>
+File created: TestFile_25.txt<br/>
+File created: TestFile_26.txt<br/>
+File created: TestFile_27.txt<br/>
+File created: TestFile_28.txt<br/>
+File created: TestFile_29.txt<br/>
+File created: TestFile_30.txt<br/>
+File created: TestFile_31.txt<br/>
+File created: TestFile_32.txt<br/>
+File created: TestFile_33.txt<br/>
+File created: TestFile_34.txt<br/>
+File created: TestFile_35.txt<br/>
+File created: TestFile_36.txt<br/>
+File created: TestFile_37.txt<br/>
+File created: TestFile_38.txt<br/>
+File created: TestFile_39.txt<br/>
+File created: TestFile_40.txt<br/>
+File created: TestFile_41.txt<br/>
+File created: TestFile_42.txt<br/>
+File created: TestFile_43.txt<br/>
+File created: TestFile_44.txt<br/>
+File created: TestFile_45.txt<br/>
+File created: TestFile_46.txt<br/>
+File created: TestFile_47.txt<br/>
+File created: TestFile_48.txt<br/>
+File created: TestFile_49.txt<br/>
+File created: TestFile_50.txt<br/>
+File created: TestFile_51.txt<br/>
+File created: TestFile_52.txt<br/>
+File created: TestFile_53.txt<br/>
+File created: TestFile_54.txt<br/>
+File created: TestFile_55.txt<br/>
+File created: TestFile_56.txt<br/>
+File created: TestFile_57.txt<br/>
+File created: TestFile_58.txt<br/>
+File created: TestFile_59.txt<br/>
+File created: TestFile_60.txt<br/>
+File created: TestFile_61.txt<br/>
+File created: TestFile_62.txt<br/>
+File created: TestFile_63.txt<br/>
+File created: TestFile_64.txt<br/>
+File created: TestFile_65.txt<br/>
+File created: TestFile_66.txt<br/>
+File created: TestFile_67.txt<br/>
+File created: TestFile_68.txt<br/>
+File created: TestFile_69.txt<br/>
+File created: TestFile_70.txt<br/>
+File created: TestFile_71.txt<br/>
+File created: TestFile_72.txt<br/>
+File created: TestFile_73.txt<br/>
+File created: TestFile_74.txt<br/>
+File created: TestFile_75.txt<br/>
+File created: TestFile_76.txt<br/>
+File created: TestFile_77.txt<br/>
+File created: TestFile_78.txt<br/>
+File created: TestFile_79.txt<br/>
+File created: TestFile_80.txt<br/>
+File created: TestFile_81.txt<br/>
+File created: TestFile_82.txt<br/>
+File created: TestFile_83.txt<br/>
+File created: TestFile_84.txt<br/>
+File created: TestFile_85.txt<br/>
+File created: TestFile_86.txt<br/>
+File created: TestFile_87.txt<br/>
+File created: TestFile_88.txt<br/>
+File created: TestFile_89.txt<br/>
+File created: TestFile_90.txt<br/>
+File created: TestFile_91.txt<br/>
+File created: TestFile_92.txt<br/>
+File created: TestFile_93.txt<br/>
+File created: TestFile_94.txt<br/>
+File created: TestFile_95.txt<br/>
+File created: TestFile_96.txt<br/>
+File created: TestFile_97.txt<br/>
+File created: TestFile_98.txt<br/>
+File created: TestFile_99.txt<br/>
+File created: TestFile_100.txt<br/>
+File created: TestFile_101.txt<br/>
+File created: TestFile_102.txt<br/>
+File created: TestFile_103.txt<br/>
+File created: TestFile_104.txt<br/>
+File created: TestFile_105.txt<br/>
+File created: TestFile_106.txt<br/>
+File created: TestFile_107.txt<br/>
+File created: TestFile_108.txt<br/>
+File created: TestFile_109.txt<br/>
+File created: TestFile_110.txt<br/>
+File created: TestFile_111.txt<br/>
+File created: TestFile_112.txt<br/>
+File created: TestFile_113.txt<br/>
+File created: TestFile_114.txt<br/>
+File created: TestFile_115.txt<br/>
+File created: TestFile_116.txt<br/>
+File created: TestFile_117.txt<br/>
+File created: TestFile_118.txt<br/>
+File created: TestFile_119.txt<br/>
+File created: TestFile_120.txt<br/>
+File created: TestFile_121.txt<br/>
+File created: TestFile_122.txt<br/>
+File created: TestFile_123.txt<br/>
+File created: TestFile_124.txt<br/>
+Waiting 300 seconds for sync to complete...<br/>
+Last test file created remotely at 
+2015-03-25 15:55:34,266<br/>
+Post-test clean up, sync before next test.<br/>
+Waiting 60 seconds for sync to complete...<br/>
+</div>
+</td>
+<td></td>
+<td>179</td>
+<td>bst.cpo.automation.ds.tests.RussTest@b1e02d2</td></tr>
+</table><p>
+</body>
+</html>

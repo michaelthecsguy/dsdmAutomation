@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BST_CPO_DS_Test]">
+  <parameter name="DM_PROD" value="https://www.sharpcloudportal.com/"/>
+  <parameter name="AdminUserUnderTest" value="DM_QAAdmin1"/>
+  <parameter name="DM_QAUser6_Password" value="test123#"/>
+  <parameter name="DM_EU_DEV" value="https://devcpo.sharpcloudportal.eu/"/>
+  <parameter name="DM_QAUser6" value="slaqa06"/>
+  <parameter name="BasicUserUnderTest" value="DM_QAUser6"/>
+  <parameter name="BrowserUnderTest" value="Firefox"/>
+  <parameter name="DM_DEV" value="https://devdm.sharpb2bcloud.com/"/>
+  <parameter name="DM_QA" value="https://qadm.sharpb2bcloud.com/"/>
+  <parameter name="DM_EU_PROD" value="https://www.sharpcloudportal.eu/"/>
+  <parameter name="SiteUnderTest" value="DS_QA"/>
+  <test name="DS - Russ&#039;s Test(failed)">
+    <classes>
+      <class name="bst.cpo.automation.mobile.Appium">
+        <methods>
+          <include name="setUp"/>
+          <include name="Cal_Test"/>
+        </methods>
+      </class> <!-- bst.cpo.automation.mobile.Appium -->
+    </classes>
+  </test> <!-- DS - Russ's Test(failed) -->
+</suite> <!-- Failed suite [BST_CPO_DS_Test] -->

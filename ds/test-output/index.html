@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-BST_CPO_DS_Test">
+              <span class="suite-name border-passed">BST_CPO_DS_Test</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-BST_CPO_DS_Test">
+                    <span>C:\workspace\cpo-automation-framework\ds\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-BST_CPO_DS_Test">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-BST_CPO_DS_Test">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-BST_CPO_DS_Test">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-BST_CPO_DS_Test">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-BST_CPO_DS_Test">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-BST_CPO_DS_Test">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">6 methods,   6 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-BST_CPO_DS_Test" class="hide-methods passed suite-BST_CPO_DS_Test"> (hide)</a> <!-- hide-methods passed suite-BST_CPO_DS_Test -->
+                      <a href="#" panel-name="suite-BST_CPO_DS_Test" class="show-methods passed suite-BST_CPO_DS_Test"> (show)</a> <!-- show-methods passed suite-BST_CPO_DS_Test -->
+                    </span>
+                    <div class="method-list-content passed suite-BST_CPO_DS_Test">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BST_CPO_DS_Test" title="bst.cpo.automation.ds.tests.BasicUserTest" hash-for-method="DSDM_Test">DSDM_Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BST_CPO_DS_Test" title="bst.cpo.automation.ds.tests.BasicUserTest" hash-for-method="General_Tab_Test">General_Tab_Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BST_CPO_DS_Test" title="bst.cpo.automation.ds.tests.BasicUserTest" hash-for-method="Get_Log_Time_Test">Get_Log_Time_Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BST_CPO_DS_Test" title="bst.cpo.automation.ds.tests.BasicUserTest" hash-for-method="Open_Folder_Test">Open_Folder_Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BST_CPO_DS_Test" title="bst.cpo.automation.ds.tests.BasicUserTest" hash-for-method="Quota_Info_Test">Quota_Info_Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BST_CPO_DS_Test" title="bst.cpo.automation.ds.tests.BasicUserTest" hash-for-method="Settings_Test">Settings_Test</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-BST_CPO_DS_Test -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-BST_CPO_DS_Test" class="panel BST_CPO_DS_Test">
+          <div class="suite-BST_CPO_DS_Test-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bst.cpo.automation.ds.tests.BasicUserTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="DSDM_Test">
+                  </a> <!-- DSDM_Test -->
+                  <span class="method-name">DSDM_Test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="General_Tab_Test">
+                  </a> <!-- General_Tab_Test -->
+                  <span class="method-name">General_Tab_Test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Get_Log_Time_Test">
+                  </a> <!-- Get_Log_Time_Test -->
+                  <span class="method-name">Get_Log_Time_Test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Open_Folder_Test">
+                  </a> <!-- Open_Folder_Test -->
+                  <span class="method-name">Open_Folder_Test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Quota_Info_Test">
+                  </a> <!-- Quota_Info_Test -->
+                  <span class="method-name">Quota_Info_Test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Settings_Test">
+                  </a> <!-- Settings_Test -->
+                  <span class="method-name">Settings_Test</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-BST_CPO_DS_Test-class-passed -->
+        </div> <!-- panel BST_CPO_DS_Test -->
+        <div panel-name="test-xml-BST_CPO_DS_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\workspace\cpo-automation-framework\ds\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;BST_CPO_DS_Test&quot;&gt;
+  &lt;parameter name=&quot;DM_QA90_Password&quot; value=&quot;$harp123&quot;/&gt;
+  &lt;parameter name=&quot;DM_PROD&quot; value=&quot;https://www.sharpcloudportal.com/&quot;/&gt;
+  &lt;parameter name=&quot;AdminUserUnderTest&quot; value=&quot;DM_QABA&quot;/&gt;
+  &lt;parameter name=&quot;DM_EU_DEV&quot; value=&quot;https://devcpo.sharpcloudportal.eu/&quot;/&gt;
+  &lt;parameter name=&quot;DM_DEVCPO2&quot; value=&quot;http://devcpo2-auth.sharpb2bcloud.com/&quot;/&gt;
+  &lt;parameter name=&quot;DM_QA90&quot; value=&quot;rt9user90&quot;/&gt;
+  &lt;parameter name=&quot;DM_USQA2&quot; value=&quot;https://usqa2-dm.sharpcloudportal.com/&quot;/&gt;
+  &lt;parameter name=&quot;DM_QABA&quot; value=&quot;rt9ba01&quot;/&gt;
+  &lt;parameter name=&quot;BasicUserUnderTest&quot; value=&quot;DM_QA90&quot;/&gt;
+  &lt;parameter name=&quot;DM_QABA_Password&quot; value=&quot;$harp123&quot;/&gt;
+  &lt;parameter name=&quot;BrowserUnderTest&quot; value=&quot;Firefox&quot;/&gt;
+  &lt;parameter name=&quot;DM_DEV&quot; value=&quot;https://devdm.sharpb2bcloud.com/&quot;/&gt;
+  &lt;parameter name=&quot;DM_EU_PROD&quot; value=&quot;https://www.sharpcloudportal.eu/&quot;/&gt;
+  &lt;parameter name=&quot;DM_QA&quot; value=&quot;https://qadm.sharpb2bcloud.com/&quot;/&gt;
+  &lt;parameter name=&quot;SiteUnderTest&quot; value=&quot;DM_USQA2&quot;/&gt;
+  &lt;test name=&quot;DS - Regression Test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;bst.cpo.automation.ds.tests.BasicUserTest&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;DSDM_Test&quot;/&gt;
+          &lt;include name=&quot;Open_Folder_Test&quot;/&gt;
+          &lt;include name=&quot;Settings_Test&quot;/&gt;
+          &lt;include name=&quot;General_Tab_Test&quot;/&gt;
+          &lt;include name=&quot;Quota_Info_Test&quot;/&gt;
+          &lt;include name=&quot;Get_Log_Time_Test&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- bst.cpo.automation.ds.tests.BasicUserTest --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- DS - Regression Test --&gt;
+&lt;/suite&gt; &lt;!-- BST_CPO_DS_Test --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-BST_CPO_DS_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for BST_CPO_DS_Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">DS - Regression Test (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-BST_CPO_DS_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for BST_CPO_DS_Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-BST_CPO_DS_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for BST_CPO_DS_Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_BST_CPO_DS_Test');
+function tableData_BST_CPO_DS_Test() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(6);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'DSDM_Test')
+data.setCell(0, 2, 'bst.cpo.automation.ds.tests.BasicUserTest')
+data.setCell(0, 3, 32610);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'Settings_Test')
+data.setCell(1, 2, 'bst.cpo.automation.ds.tests.BasicUserTest')
+data.setCell(1, 3, 13597);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'Open_Folder_Test')
+data.setCell(2, 2, 'bst.cpo.automation.ds.tests.BasicUserTest')
+data.setCell(2, 3, 7938);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'General_Tab_Test')
+data.setCell(3, 2, 'bst.cpo.automation.ds.tests.BasicUserTest')
+data.setCell(3, 3, 4446);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'Quota_Info_Test')
+data.setCell(4, 2, 'bst.cpo.automation.ds.tests.BasicUserTest')
+data.setCell(4, 3, 14);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'Get_Log_Time_Test')
+data.setCell(5, 2, 'bst.cpo.automation.ds.tests.BasicUserTest')
+data.setCell(5, 3, 4);
+window.suiteTableData['BST_CPO_DS_Test']= { tableData: data, tableDiv: 'times-div-BST_CPO_DS_Test'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 58 seconds</span>
+              <div id="times-div-BST_CPO_DS_Test">
+              </div> <!-- times-div-BST_CPO_DS_Test -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-BST_CPO_DS_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for BST_CPO_DS_Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">Quota_Info_Test</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Starting Quota_Info_Test</span>
+                <span class="reporter-method-output">Found quota info in log: (used/versions/trash/total) = (0.0, 0.0, 0.0, 10.0)</span>
+                <span class="reporter-method-output">Quota Used = '0.0' GB.</span>
+                <span class="reporter-method-output">Quota Version = '0.0' GB.</span>
+                <span class="reporter-method-output">Quota Trash = '0.0' GB.</span>
+                <span class="reporter-method-output">Quota Allocated = '10.0' GB.</span>
+                <span class="reporter-method-output">Quota Remaining = '10.0' GB.</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">Settings_Test</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Starting Settings_Test</span>
+                <span class="reporter-method-output">DS Icon is Online and Synced.</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">General_Tab_Test</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Starting General_Tab_Test</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">Get_Log_Time_Test</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Attempting to find Actual storage usage in the logs.</span>
+                <span class="reporter-method-output">Last quota entry in logs at: 2015-06-22 12:50:22,296</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">Open_Folder_Test</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Starting Open_Folder_Test test</span>
+                <span class="reporter-method-output">***** Starting Test: </span>
+                <span class="reporter-method-output">DS Icon is Online and Synced.</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">DSDM_Test</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Starting DM and DS Test</span>
+                <span class="reporter-method-output">***** Starting DS and DM Test: </span>
+                <span class="reporter-method-output">DS Icon is Online and Synced.</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-BST_CPO_DS_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">3 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">bst.cpo.automation.ds.tests.BasicUserTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">Disconnect_User_Test</span>
+                <br/>
+                <span class="ignored-method-name">ExpectedFail_Test</span>
+                <br/>
+                <span class="ignored-method-name">Launch_DS_Test</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-BST_CPO_DS_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">bst.cpo.automation.ds.tests.BasicUserTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">Setup(org.testng.TestRunner@1f0a6709)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">DSDM_Test</span>
+                <span class="method-start">5716 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">CleanupFailedTestcase([TestResult name=DSDM_Test status=SUCCESS method=BasicUserTest.DSDM_Test()[pri:0, instance:bst.cpo.a...)</span>
+                <span class="method-start">38326 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">Open_Folder_Test</span>
+                <span class="method-start">38330 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">CleanupFailedTestcase([TestResult name=Open_Folder_Test status=SUCCESS method=BasicUserTest.Open_Folder_Test()[pri:0, inst...)</span>
+                <span class="method-start">46269 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">Settings_Test</span>
+                <span class="method-start">46271 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">CleanupFailedTestcase([TestResult name=Settings_Test status=SUCCESS method=BasicUserTest.Settings_Test()[pri:0, instance:b...)</span>
+                <span class="method-start">59868 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">General_Tab_Test</span>
+                <span class="method-start">59870 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">CleanupFailedTestcase([TestResult name=General_Tab_Test status=SUCCESS method=BasicUserTest.General_Tab_Test()[pri:0, inst...)</span>
+                <span class="method-start">64317 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">Quota_Info_Test</span>
+                <span class="method-start">64318 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">CleanupFailedTestcase([TestResult name=Quota_Info_Test status=SUCCESS method=BasicUserTest.Quota_Info_Test()[pri:0, instan...)</span>
+                <span class="method-start">64333 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">Get_Log_Time_Test</span>
+                <span class="method-start">64334 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">CleanupFailedTestcase([TestResult name=Get_Log_Time_Test status=SUCCESS method=BasicUserTest.Get_Log_Time_Test()[pri:0, in...)</span>
+                <span class="method-start">64339 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-class after">
+                <span class="method-name">Teardown</span>
+                <span class="method-start">64340 ms</span>
+              </div> <!-- configuration-class after -->
+              <div class="configuration-suite after">
+                <span class="method-name">EndSuite</span>
+                <span class="method-start">65651 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

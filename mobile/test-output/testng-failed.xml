@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BST_CPO_MOBILE_Test]">
+  <test name="Mobile Test(failed)">
+    <classes>
+      <class name="bst.cpo.automation.mobile.Appium">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="Josh_Test"/>
+        </methods>
+      </class> <!-- bst.cpo.automation.mobile.Appium -->
+    </classes>
+  </test> <!-- Mobile Test(failed) -->
+</suite> <!-- Failed suite [BST_CPO_MOBILE_Test] -->

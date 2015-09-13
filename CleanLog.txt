@@ -1,0 +1,129 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building framework 2.0.0
+[INFO] ------------------------------------------------------------------------
+Downloading: https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/maven-metadata.xml
+3/3 KB            Downloaded: https://repo.maven.apache.org/maven2/org/seleniumhq/selenium/selenium-java/maven-metadata.xml (3 KB at 2.3 KB/sec)
+Downloading: https://oss.sonatype.org/content/repositories/snapshots/org/seleniumhq/selenium/selenium-java/maven-metadata.xml
+373/373 B               Downloaded: https://oss.sonatype.org/content/repositories/snapshots/org/seleniumhq/selenium/selenium-java/maven-metadata.xml (373 B at 0.4 KB/sec)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ framework ---
+[INFO] Deleting C:\workspace\cpo-automation-framework\framework\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ framework ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\workspace\cpo-automation-framework\framework\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ framework ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 6 source files to C:\workspace\cpo-automation-framework\framework\target\classes
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ framework ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\workspace\cpo-automation-framework\framework\src\test\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ framework ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 6 source files to C:\workspace\cpo-automation-framework\framework\target\test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ framework ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ framework ---
+[INFO] Building jar: C:\workspace\cpo-automation-framework\framework\target\framework-2.0.0.jar
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ framework ---
+[INFO] Installing C:\workspace\cpo-automation-framework\framework\target\framework-2.0.0.jar to C:\Users\rholm\.m2\repository\bst\cpo\automation\framework\2.0.0\framework-2.0.0.jar
+[INFO] Installing C:\workspace\cpo-automation-framework\framework\pom.xml to C:\Users\rholm\.m2\repository\bst\cpo\automation\framework\2.0.0\framework-2.0.0.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 21.561 s
+[INFO] Finished at: 2015-06-23T11:13:09-05:00
+[INFO] Final Memory: 21M/249M
+[INFO] ------------------------------------------------------------------------
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building dm 2.0.0
+[INFO] ------------------------------------------------------------------------
+Downloading: https://repo.maven.apache.org/maven2/log4j/log4j/maven-metadata.xml
+750/750 B               Downloaded: https://repo.maven.apache.org/maven2/log4j/log4j/maven-metadata.xml (750 B at 1.1 KB/sec)
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ dm ---
+[INFO] Deleting C:\workspace\cpo-automation-framework\dm\bin
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ dm ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\workspace\cpo-automation-framework\dm\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ dm ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ dm ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 2 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ dm ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 29 source files to C:\workspace\cpo-automation-framework\dm\bin
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ dm ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ dm ---
+[INFO] Building jar: C:\workspace\cpo-automation-framework\dm\bin\dm-2.0.0.jar
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ dm ---
+[INFO] Installing C:\workspace\cpo-automation-framework\dm\bin\dm-2.0.0.jar to C:\Users\rholm\.m2\repository\bst\cpo\automation\dm\2.0.0\dm-2.0.0.jar
+[INFO] Installing C:\workspace\cpo-automation-framework\dm\pom.xml to C:\Users\rholm\.m2\repository\bst\cpo\automation\dm\2.0.0\dm-2.0.0.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.465 s
+[INFO] Finished at: 2015-06-23T11:13:14-05:00
+[INFO] Final Memory: 24M/307M
+[INFO] ------------------------------------------------------------------------
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building ds 2.0.0
+[INFO] ------------------------------------------------------------------------
+Downloading: https://repo.maven.apache.org/maven2/com/sikulix/sikulixapi/1.1.0/sikulixapi-1.1.0.pom
+[WARNING] The POM for com.sikulix:sikulixapi:jar:1.1.0 is missing, no dependency information available
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ ds ---
+[INFO] Deleting C:\workspace\cpo-automation-framework\ds\bin
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ ds ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory C:\workspace\cpo-automation-framework\ds\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ ds ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ ds ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 172 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ ds ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 6 source files to C:\workspace\cpo-automation-framework\ds\bin
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ ds ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ ds ---
+[INFO] Building jar: C:\workspace\cpo-automation-framework\ds\bin\ds-2.0.0.jar
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ ds ---
+[INFO] Installing C:\workspace\cpo-automation-framework\ds\bin\ds-2.0.0.jar to C:\Users\rholm\.m2\repository\bst\cpo\automation\ds\2.0.0\ds-2.0.0.jar
+[INFO] Installing C:\workspace\cpo-automation-framework\ds\pom.xml to C:\Users\rholm\.m2\repository\bst\cpo\automation\ds\2.0.0\ds-2.0.0.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.790 s
+[INFO] Finished at: 2015-06-23T11:13:19-05:00
+[INFO] Final Memory: 25M/307M
+[INFO] ------------------------------------------------------------------------

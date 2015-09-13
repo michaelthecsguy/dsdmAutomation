@@ -1,0 +1,93 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BST_CPO_DM_Test" verbose="1">
+
+	<!-- QA Basic User Names and Passwords -->
+	<parameter name="DM_QAUser6" value="slaqa06" />
+	<parameter name="DM_QAUser6_Password" value="test123#" />	
+	<parameter name="DM_QAAuto1" value="slaqaauto1" />
+	<parameter name="DM_QAAuto1_Password" value="test123#" />
+	<parameter name="DM_QA07" value="slaqa07" />
+	<parameter name="DM_QA07_Password" value="test123#" />
+
+	<!-- QA2 Automation users-->
+	<parameter name="DM_QA90" value="rt9User90" />
+	<parameter name="DM_QA90_Password" value="$harp123" />
+	<parameter name="DM_QA91" value="rt9user91" />
+	<parameter name="DM_QA91_Password" value="$harp123" />
+	<parameter name="DM_QABA" value="rt9ba01" />
+	<parameter name="DM_QABA_Password" value="$harp123" />
+		
+	<!--URL Environments -->
+	<parameter name="DM_QA2" value="https://usqa2-dm.sharpcloudportal.com" />
+	<parameter name="DM_DEVCPO2" value="http://devcpo2-auth.sharpb2bcloud.com/" />
+	<parameter name="DM_QA" value="https://qadm.sharpb2bcloud.com/" />
+	<parameter name="DM_DEV" value="https://devdm.sharpb2bcloud.com/" />
+	<parameter name="DM_PROD" value="https://www.sharpcloudportal.com/" />
+	<parameter name="DM_EU_DEV" value="https://devcpo.sharpcloudportal.eu/" />
+	<parameter name="DM_EU_PROD" value="https://www.sharpcloudportal.eu/" />	
+
+	<!-- Under Test Variables -->
+	<parameter name="SiteUnderTest" value="DM_QA2" />
+	<parameter name="BrowserUnderTest" value="Firefox" />
+	<parameter name="BasicUserUnderTest" value="DM_QA90" />
+	<parameter name="AdminUserUnderTest" value="DM_QABA" />
+	
+	<!-- Specify tests to run here -->
+	<test name="DM - Demo" preserve-order="true">
+		<classes>
+			<class name="bst.cpo.automation.dm.tests.Demo">
+				<methods>
+					<include name="Login_User"/>
+					<include name="Settings_Admin_Fail"/>
+					<include name="User"/>
+					<include name="Add_File"/>
+					<include name="Select_File_Copy"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	<!--  
+	<test name="DM - Regression Test" preserve-order="true">
+		<classes>
+			<class name="bst.cpo.automation.dm.tests.RussTest">
+				<methods>
+					<include name="Login_User_1" />
+					<include name="Bad_Login_Test" />
+					<include name="Navigation_Test" />
+
+					<include name="Recently_UpdatedDocs_Test" />
+					<include name="Recently_UpdatedFolder_Test" />
+					<include name="Recently_UpdatedOther_Test" />
+					<include name="Recently_Updated_Test" />
+
+					<include name="Sync_Computers" />
+					<include name="User"/>
+					<include name="My_Profile"/>
+					<include name="My_Log"/>
+					<include name="MyDocsTrash"/>
+					
+					<include name="Add_Folder" />
+
+					<include name="Send_Link"/>
+					<include name="Capture_Msg"/>
+
+					<include name="Simple_Search"/>
+					<include name="Advanced_Search"/>
+					<include name="Info"/>
+
+					<include name="Sign_Out" />
+					<include name="Login_User_BA" />
+
+
+					<include name="Groups" />
+					<include name="System_Overview" />
+					<include name="Index_fields"/>
+					<include name="Admin_Log"/>
+					<include name="Meeting_Room"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	-->
+</suite>

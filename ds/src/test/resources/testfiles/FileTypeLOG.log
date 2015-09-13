@@ -1,0 +1,170 @@
+2014-12-30 09:39:37,335 3772 6240 DEBUG    nxdrive.commandline Command line: argv=C:\Program Files (x86)\Sharp\Cloud Portal Desktop Sync\appdata\Cloud Portal Desktop Sync-2.0.1201.win32\clouddrivew.exe, options=Namespace(command='launch', debug=False, delay=30.0, handshake_timeout=60, log_filename=None, log_level_console='INFO', log_level_file='DEBUG', maintenance_url=u'https://qa-mgmt.sharpb2bcloud.com/Maintenance/MaintenanceSchedule.svc/json/qadm.sharpb2bcloud.com/', max_errors=3, max_sync_step=50, nxdrive_home='C:\\Users\\rholm\\AppData\\Local\\Sharp\\.cpo-drive', server_url=u'https://qadm.sharpb2bcloud.com/app1', stop_on_error=True, timeout=20, update_check_delay=3600, update_site_url=u'http://downloads.sharpb2bcloud.com.s3.amazonaws.com/?prefix=update/development', watchdog=False)
+2014-12-30 09:39:37,335 3772 6240 DEBUG    nxdrive.commandline Enabling faulthandler to trace segfaults in C:\Users\rholm\AppData\Local\Sharp\.cpo-drive\logs\segfault.log
+2014-12-30 09:39:37,335 3772 6240 INFO     nxdrive.controller nxdrive installed in 'C:\Program Files (x86)\Sharp\Cloud Portal Desktop Sync\appdata\Cloud Portal Desktop Sync-2.0.1201.win32\library.zip\nxdrive'
+2014-12-30 09:39:37,335 3772 6240 INFO     nxdrive.controller nxdrive configured in 'C:\Users\rholm\AppData\Local\Sharp\.cpo-drive'
+2014-12-30 09:39:37,345 3772 6240 INFO     alembic.migration  Context impl SQLiteImpl.
+2014-12-30 09:39:37,345 3772 6240 INFO     alembic.migration  Will assume non-transactional DDL.
+2014-12-30 09:39:37,345 3772 6240 DEBUG    nxdrive.migration  Checking if SQLite database migration is needed.
+2014-12-30 09:39:37,349 3772 6240 DEBUG    nxdrive.migration  Head Alembic revision: 2f126b5f61a6
+2014-12-30 09:39:37,351 3772 6240 DEBUG    nxdrive.migration  Current Alembic revision: 2f126b5f61a6
+2014-12-30 09:39:37,351 3772 6240 DEBUG    nxdrive.migration  No migration to process as current Alembic revision in SQLite database is already the head revision.
+2014-12-30 09:39:37,378 3772 6240 INFO     nxdrive.controller Initialized list of recently modified items in C:\Users\rholm\Cloud Portal Office: [u'3824 file-13.txt', u'3824 file.txt', u'3189 Update Test (cduser 4 - 2014-12-29 09-38).txt', u'3189 Update Test.txt', u'BOX.png']
+2014-12-30 09:39:37,408 3772 6240 DEBUG    clouddesktop.controller.controller Registered new favorite in Windows Explorer for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:39:37,410 3772 6240 DEBUG    nxdrive.protocol_handler.win32 Registering 'nxdrive' protocol handler to: C:\Program Files (x86)\Sharp\Cloud Portal Desktop Sync\appdata\Cloud Portal Desktop Sync-2.0.1201.win32\clouddrivew.exe
+2014-12-30 09:39:37,413 3772 6240 DEBUG    nxdrive.startup    Registering 'Nuxeo Drive' application C:\Program Files (x86)\Sharp\Cloud Portal Desktop Sync\appdata\Cloud Portal Desktop Sync-2.0.1201.win32\clouddrivew.exe to registry key Software\Microsoft\Windows\CurrentVersion\Run
+2014-12-30 09:39:37,413 3772 6240 DEBUG    nxdrive.contextual_menu Registering 'None' application C:\Program Files (x86)\Sharp\Cloud Portal Desktop Sync\appdata\Cloud Portal Desktop Sync-2.0.1201.win32\clouddrivew.exe metadata --file "%1" to registry key Software\Classes\*\shell\Nuxeo drive\command
+2014-12-30 09:39:37,426 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: disabled
+2014-12-30 09:39:37,444 3772 6240 INFO     clouddesktop.utils.localization Change Localization to 'en'
+2014-12-30 09:39:38,867 3772 6240 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:39:39,345 3772 6240 INFO     nxdrive.controller Fetched update info from server: {u'serverVersion': u'5.6.0-HF39', u'updateSiteURL': None}
+2014-12-30 09:39:39,345 3772 6240 DEBUG    nxdrive.controller Update site URL is null or not available, falling back on default one: http://downloads.sharpb2bcloud.com.s3.amazonaws.com/?prefix=update/development
+2014-12-30 09:39:39,346 3772 6240 DEBUG    nxdrive.updater    Application is frozen, building Esky instance from executable C:\Program Files (x86)\Sharp\Cloud Portal Desktop Sync\appdata\Cloud Portal Desktop Sync-2.0.1201.win32\clouddrivew.exe and version finder <clouddesktop.gui.updater.S3VersionFinder object at 0x03DE87F0>
+2014-12-30 09:39:39,522 3772 6240 INFO     nxdrive.updater    Client version 2.0.1201 is compatible with server version 5.6.0-HF39, yet an update is available: version 2.0.1205.
+2014-12-30 09:39:39,522 3772 6240 INFO     nxdrive.gui.application Fetched information from update site http://downloads.sharpb2bcloud.com.s3.amazonaws.com/?prefix=update/development/: update status = 'update_available', update version = '2.0.1205'
+2014-12-30 09:39:39,523 3772 6240 INFO     nxdrive.gui.application An update is available and auto-update is not checked, let's just update the systray icon and menu and let the user explicitly choose to update
+2014-12-30 09:39:39,526 3772 6240 INFO     nxdrive.gui.application Starting new synchronization thread <SynchronizerThread(Thread-1, initial)>
+2014-12-30 09:39:39,528 3772 6240 INFO     nxdrive.gui.application Synchronization thread <SynchronizerThread(Thread-1, started 7480)> started
+2014-12-30 09:39:39,529 3772 7480 DEBUG    nxdrive.synchronizer Start synchronization thread <SynchronizerThread(Thread-1, started 7480)>
+2014-12-30 09:39:39,529 3772 7480 DEBUG    nxdrive.gui.application Synchronization started
+2014-12-30 09:39:39,529 3772 7480 INFO     nxdrive.synchronizer Starting synchronization loop (pid=3772)
+2014-12-30 09:39:39,535 3772 7480 INFO     nxdrive.controller Initialized list of recently modified items in C:\Users\rholm\Cloud Portal Office: [u'3824 file-13.txt', u'3824 file.txt', u'3189 Update Test (cduser 4 - 2014-12-29 09-38).txt', u'3189 Update Test.txt', u'BOX.png']
+2014-12-30 09:39:39,536 3772 7480 DEBUG    nxdrive.gui.application Detected changes in the list of local folders: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:39:40,072 3772 7480 DEBUG    nxdrive.gui.application Switching to online mode for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:39:40,079 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: update_available
+2014-12-30 09:39:40,628 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:39:40,635 3772 7480 DEBUG    nxdrive.gui.application 0 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:39:41,095 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.454s, remote: 1.100s sync: 0.006s
+2014-12-30 09:39:41,096 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.438s
+2014-12-30 09:40:10,279 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:40:12,489 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 2.195s, remote: 0.751s sync: 0.007s
+2014-12-30 09:40:12,490 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 27.045s
+2014-12-30 09:40:40,400 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:40:40,861 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.447s, remote: 0.871s sync: 0.007s
+2014-12-30 09:40:40,861 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.673s
+2014-12-30 09:41:12,894 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:41:12,895 3772 7480 DEBUG    nxdrive.synchronizer 1 remote changes detected on https://qadm.sharpb2bcloud.com/app1
+2014-12-30 09:41:13,348 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.437s, remote: 3.370s sync: 0.006s
+2014-12-30 09:41:13,349 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 26.185s
+2014-12-30 09:41:40,391 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:41:40,845 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.439s, remote: 0.863s sync: 0.007s
+2014-12-30 09:41:40,845 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.690s
+2014-12-30 09:42:12,299 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:42:12,769 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.453s, remote: 2.766s sync: 0.007s
+2014-12-30 09:42:12,769 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 26.772s
+2014-12-30 09:42:40,686 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:42:40,687 3772 7480 DEBUG    nxdrive.synchronizer 2 remote changes detected on https://qadm.sharpb2bcloud.com/app1
+2014-12-30 09:42:40,700 3772 7480 DEBUG    nxdrive.synchronizer Marked doc_pair '3987GroupTest' as remote creation
+2014-12-30 09:42:40,700 3772 7480 DEBUG    nxdrive.synchronizer Remote recursive scan of the content of 3987GroupTest
+2014-12-30 09:42:40,900 3772 7480 DEBUG    nxdrive.gui.application 1 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:42:40,905 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: transferring
+2014-12-30 09:42:41,348 3772 7480 DEBUG    nxdrive.synchronizer Found 1 pending items
+2014-12-30 09:42:41,595 3772 7480 DEBUG    nxdrive.synchronizer Creating local folder '3987GroupTest' in 'C:\Users\rholm\Cloud Portal Office\Other Docs'
+2014-12-30 09:42:41,595 3772 7480 DEBUG    nxdrive.synchronizer Remote recursive scan of the content of 3987GroupTest
+2014-12-30 09:42:41,984 3772 7480 DEBUG    nxdrive.gui.application 0 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:42:41,986 3772 7480 DEBUG    nxdrive.gui.application Updating last ended synchronization date to 30 Dec 09:42 for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:42:41,996 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: update_available
+2014-12-30 09:42:42,066 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 1, pending: 1, local: 0.441s, remote: 1.357s sync: 0.725s
+2014-12-30 09:42:42,066 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 27.475s
+2014-12-30 09:43:10,385 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:43:10,885 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.486s, remote: 0.850s sync: 0.007s
+2014-12-30 09:43:10,887 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.655s
+2014-12-30 09:43:40,388 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:43:40,390 3772 7480 DEBUG    nxdrive.synchronizer 1 remote changes detected on https://qadm.sharpb2bcloud.com/app1
+2014-12-30 09:43:40,404 3772 7480 DEBUG    nxdrive.synchronizer Marked doc_pair 'Lighthouse.jpg' as remote creation
+2014-12-30 09:43:40,417 3772 7480 DEBUG    nxdrive.gui.application 1 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:43:40,423 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: transferring
+2014-12-30 09:43:40,918 3772 7480 DEBUG    nxdrive.synchronizer Found 1 pending items
+2014-12-30 09:43:41,134 3772 7480 DEBUG    nxdrive.synchronizer Creating local file 'Lighthouse.jpg' in 'C:\Users\rholm\Cloud Portal Office\Other Docs\3987GroupTest'
+2014-12-30 09:43:43,960 3772 7480 DEBUG    nxdrive.gui.application 0 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:43:43,960 3772 7480 DEBUG    nxdrive.gui.application Updating last ended synchronization date to 30 Dec 09:43 for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:43:43,967 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: update_available
+2014-12-30 09:43:44,015 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 1, pending: 1, local: 0.494s, remote: 0.875s sync: 3.103s
+2014-12-30 09:43:44,016 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 25.525s
+2014-12-30 09:44:10,415 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:44:10,911 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.480s, remote: 0.882s sync: 0.008s
+2014-12-30 09:44:10,911 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.629s
+2014-12-30 09:44:42,608 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:44:42,608 3772 7480 DEBUG    nxdrive.synchronizer 1 remote changes detected on https://qadm.sharpb2bcloud.com/app1
+2014-12-30 09:44:43,082 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.456s, remote: 3.080s sync: 0.007s
+2014-12-30 09:44:43,084 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 26.455s
+2014-12-30 09:45:10,368 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:45:10,825 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.444s, remote: 0.837s sync: 0.006s
+2014-12-30 09:45:10,826 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.711s
+2014-12-30 09:45:40,375 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:45:40,825 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.437s, remote: 0.843s sync: 0.006s
+2014-12-30 09:45:40,825 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.712s
+2014-12-30 09:46:10,295 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:46:10,739 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.430s, remote: 0.763s sync: 0.007s
+2014-12-30 09:46:10,740 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.798s
+2014-12-30 09:46:40,349 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:46:40,828 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.464s, remote: 0.819s sync: 0.006s
+2014-12-30 09:46:40,828 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.709s
+2014-12-30 09:47:10,331 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:47:10,779 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.433s, remote: 0.800s sync: 0.007s
+2014-12-30 09:47:10,779 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.758s
+2014-12-30 09:47:40,392 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:47:40,835 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.429s, remote: 0.862s sync: 0.006s
+2014-12-30 09:47:40,836 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.701s
+2014-12-30 09:48:10,775 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:48:10,776 3772 7480 DEBUG    nxdrive.synchronizer 1 remote changes detected on https://qadm.sharpb2bcloud.com/app1
+2014-12-30 09:48:11,229 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 0, local: 0.437s, remote: 1.247s sync: 0.006s
+2014-12-30 09:48:11,230 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.308s
+2014-12-30 09:48:40,227 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:48:40,650 3772 7480 DEBUG    nxdrive.synchronizer Detected a new non-alignable local file at /Other Docs/3987GroupTest/Desert.jpg
+2014-12-30 09:48:40,766 3772 7480 DEBUG    nxdrive.gui.application 1 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:48:40,776 3772 7480 DEBUG    nxdrive.synchronizer Found 1 pending items
+2014-12-30 09:48:40,776 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: transferring
+2014-12-30 09:48:40,934 3772 7480 DEBUG    nxdrive.synchronizer Creating remote document 'Desert.jpg' in folder '3987GroupTest'
+2014-12-30 09:48:44,382 3772 7480 DEBUG    nxdrive.client.base_automation_client {"error" : "Failed to invoke operation NuxeoDrive.CreateFile"}
+2014-12-30 09:48:44,382 3772 7480 ERROR    nxdrive.synchronizer Failed to sync LastKnownState<local_folder=u'Cloud Portal Office', local_path=u'/Other Docs/3987GroupTest/Desert.jpg', remote_name=None, local_state=u'created', remote_state=u'unknown', pair_state=u'locally_created', error_count=0>, blacklisting doc pair for 300 seconds
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\Jenkins\jobs\sharp-cpo-ds-win-msi\workspace\nuxeo-drive\nuxeo-drive-client\nxdrive\synchronizer.py", line 1502, in synchronize
+  File "C:\Program Files (x86)\Jenkins\jobs\sharp-cpo-ds-win-msi\workspace\nuxeo-drive\nuxeo-drive-client\nxdrive\synchronizer.py", line 799, in synchronize_one
+  File "C:\Program Files (x86)\Jenkins\jobs\sharp-cpo-ds-win-msi\workspace\nuxeo-drive\nuxeo-drive-client\nxdrive\synchronizer.py", line 977, in _synchronize_locally_created
+  File "C:\Program Files (x86)\Jenkins\jobs\sharp-cpo-ds-win-msi\workspace\nuxeo-drive\nuxeo-drive-client\nxdrive\client\remote_file_system_client.py", line 129, in stream_file
+  File "C:\Program Files (x86)\Jenkins\jobs\sharp-cpo-ds-win-msi\workspace\nuxeo-drive\nuxeo-drive-client\nxdrive\client\base_automation_client.py", line 347, in execute_with_blob_streaming
+  File "C:\Program Files (x86)\Jenkins\jobs\sharp-cpo-ds-win-msi\workspace\nuxeo-drive\nuxeo-drive-client\nxdrive\client\base_automation_client.py", line 424, in execute_batch
+  File "C:\Program Files (x86)\Jenkins\jobs\sharp-cpo-ds-win-msi\workspace\nuxeo-drive\nuxeo-drive-client\nxdrive\client\base_automation_client.py", line 320, in execute
+  File "C:\Python27\lib\urllib2.py", line 410, in open
+  File "C:\Python27\lib\urllib2.py", line 523, in http_response
+  File "C:\Python27\lib\urllib2.py", line 448, in error
+  File "C:\Python27\lib\urllib2.py", line 382, in _call_chain
+  File "C:\Python27\lib\urllib2.py", line 531, in http_error_default
+HTTPError: HTTP Error 403: Forbidden
+2014-12-30 09:48:44,444 3772 7480 DEBUG    nxdrive.gui.application 0 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:48:44,444 3772 7480 DEBUG    nxdrive.gui.application Updating last ended synchronization date to 30 Dec 09:48 for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:48:44,450 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: update_available
+2014-12-30 09:48:44,502 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 1, local: 0.518s, remote: 0.696s sync: 3.748s
+2014-12-30 09:48:44,502 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 25.036s
+2014-12-30 09:49:10,420 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:49:10,438 3772 7480 DEBUG    nxdrive.gui.application 1 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:49:10,444 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: transferring
+2014-12-30 09:49:10,910 3772 7480 DEBUG    nxdrive.gui.application 0 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:49:10,910 3772 7480 DEBUG    nxdrive.gui.application Updating last ended synchronization date to 30 Dec 09:49 for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:49:10,917 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: update_available
+2014-12-30 09:49:10,973 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 1, local: 0.452s, remote: 0.900s sync: 0.080s
+2014-12-30 09:49:10,973 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.566s
+2014-12-30 09:49:40,588 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:49:40,607 3772 7480 DEBUG    nxdrive.gui.application 1 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:49:40,612 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: transferring
+2014-12-30 09:49:41,069 3772 7480 DEBUG    nxdrive.gui.application 0 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:49:41,069 3772 7480 DEBUG    nxdrive.gui.application Updating last ended synchronization date to 30 Dec 09:49 for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:49:41,075 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: update_available
+2014-12-30 09:49:41,134 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 1, local: 0.446s, remote: 1.069s sync: 0.079s
+2014-12-30 09:49:41,134 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.404s
+2014-12-30 09:50:10,372 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:50:10,391 3772 7480 DEBUG    nxdrive.gui.application 1 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:50:10,397 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: transferring
+2014-12-30 09:50:10,845 3772 7480 DEBUG    nxdrive.gui.application 0 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:50:10,845 3772 7480 DEBUG    nxdrive.gui.application Updating last ended synchronization date to 30 Dec 09:50 for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:50:10,851 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: update_available
+2014-12-30 09:50:10,930 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 1, local: 0.437s, remote: 0.853s sync: 0.100s
+2014-12-30 09:50:10,930 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.608s
+2014-12-30 09:50:40,321 3772 7480 DEBUG    clouddesktop.controller.storage_controller used storage=8.49, total storage=10.0
+2014-12-30 09:50:40,338 3772 7480 DEBUG    nxdrive.gui.application 1 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:50:40,344 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: transferring
+2014-12-30 09:50:40,783 3772 7480 DEBUG    nxdrive.gui.application 0 pending operations for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:50:40,783 3772 7480 DEBUG    nxdrive.gui.application Updating last ended synchronization date to 30 Dec 09:50 for: C:\Users\rholm\Cloud Portal Office
+2014-12-30 09:50:40,789 3772 6240 DEBUG    clouddesktop.gui.application Updated icon state to: update_available
+2014-12-30 09:50:40,842 3772 7480 DEBUG    nxdrive.synchronizer [C:\Users\rholm\Cloud Portal Office] - [https://qadm.sharpb2bcloud.com/app1]: synchronized: 0, pending: 1, local: 0.429s, remote: 0.800s sync: 0.073s
+2014-12-30 09:50:40,842 3772 7480 DEBUG    nxdrive.synchronizer Sleeping 28.695s

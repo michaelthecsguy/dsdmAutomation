@@ -1,0 +1,1595 @@
+2015-03-31 13:00:39 INFO  BaseTest:237 - ***** Site Under Test: DM_DEVCPO2
+2015-03-31 13:00:39 INFO  BaseTest:237 - ***** User Running Test: esquivelj
+2015-03-31 13:00:39 INFO  BaseTest:237 - ***** User Running Test: esquivelj
+2015-03-31 13:00:39 INFO  BaseTest:237 - Starting DM and DS Test
+2015-03-31 13:00:39 INFO  BaseTest:237 - ***** Starting DS and DM Test: 
+2015-03-31 13:00:39 INFO  BaseTest:237 - Exception during test occurred : null
+2015-03-31 13:00:39 INFO  BaseTest:237 - ***** TEST FAILED: DSDM_Test at Tue Mar 31 13-00-39 PDT 2015
+2015-03-31 13:00:39 INFO  BaseTest:237 - Generating screenshot for failed test: 
+2015-03-31 13:00:39 INFO  BaseTest:237 - Screenshot Path test-output\screenshots\FAIL_Tue_Mar_31_13-00-39_PDT_2015_DM_DEVCPO2-Firefox.png
+2015-03-31 13:00:39 INFO  BaseTest:237 - Saved screenshot for failed test
+2015-03-31 13:00:39 INFO  BaseTest:237 - Now attaching to TestNG Report
+2015-03-31 13:00:39 INFO  BaseTest:237 - ***** Tests have Finished 
+2015-03-31 13:00:40 INFO  BaseTest:237 - ***** Suite has Finished
+2015-03-31 13:08:50 INFO  BaseTest:237 - ***** Site Under Test: DM_DEVCPO2
+2015-03-31 13:08:50 INFO  BaseTest:237 - ***** User Running Test: esquivelj
+2015-03-31 13:08:50 INFO  BaseTest:237 - ***** User Running Test: esquivelj
+2015-03-31 13:08:50 INFO  BaseTest:237 - Starting DM and DS Test
+2015-03-31 13:08:50 INFO  BaseTest:237 - ***** Starting DS and DM Test: 
+2015-03-31 13:08:55 INFO  BaseTest:237 - Exception during test occurred : angular is not defined
+Command duration or timeout: 46 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'ocbstjew7lt', ip: '172.29.223.72', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+Session ID: 9fc099b7-1f92-4bbb-be30-cf37227a2c8c
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=true, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=34.0.5}]
+2015-03-31 13:08:55 INFO  BaseTest:237 - ***** TEST FAILED: DSDM_Test at Tue Mar 31 13-08-55 PDT 2015
+2015-03-31 13:08:55 INFO  BaseTest:237 - Generating screenshot for failed test: 
+2015-03-31 13:08:55 INFO  BaseTest:237 - Screenshot Path test-output\screenshots\FAIL_Tue_Mar_31_13-08-55_PDT_2015_DM_DEVCPO2-Firefox.png
+2015-03-31 13:08:55 INFO  BaseTest:237 - Saved screenshot for failed test
+2015-03-31 13:08:55 INFO  BaseTest:237 - Now attaching to TestNG Report
+2015-03-31 13:08:55 INFO  BaseTest:237 - ***** Tests have Finished 
+2015-03-31 13:08:55 INFO  BaseTest:237 - ***** Suite has Finished
+2015-03-31 13:14:03 INFO  BaseTest:237 - ***** Site Under Test: DM_DEVCPO2
+2015-03-31 13:14:03 INFO  BaseTest:237 - ***** User Running Test: esquivelj
+2015-03-31 13:14:03 INFO  BaseTest:237 - ***** User Running Test: esquivelj
+2015-03-31 13:14:03 INFO  BaseTest:237 - Starting DM and DS Test
+2015-03-31 13:14:03 INFO  BaseTest:237 - ***** Starting DS and DM Test: 
+2015-03-31 13:14:08 INFO  BaseTest:237 - Exception during test occurred : angular is not defined
+Command duration or timeout: 45 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'ocbstjew7lt', ip: '172.29.223.72', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+Session ID: a09f0c69-2895-4737-aa54-50ba3b8aed7b
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=true, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=34.0.5}]
+2015-03-31 13:14:08 INFO  BaseTest:237 - ***** TEST FAILED: DSDM_Test at Tue Mar 31 13-14-08 PDT 2015
+2015-03-31 13:14:08 INFO  BaseTest:237 - Generating screenshot for failed test: 
+2015-03-31 13:14:08 INFO  BaseTest:237 - Screenshot Path test-output\screenshots\FAIL_Tue_Mar_31_13-14-08_PDT_2015_DM_DEVCPO2-Firefox.png
+2015-03-31 13:14:08 INFO  BaseTest:237 - Saved screenshot for failed test
+2015-03-31 13:14:08 INFO  BaseTest:237 - Now attaching to TestNG Report
+2015-03-31 13:14:08 INFO  BaseTest:237 - ***** Tests have Finished 
+2015-03-31 13:14:08 INFO  BaseTest:237 - ***** Suite has Finished
+2015-03-31 13:17:37 INFO  BaseTest:237 - ***** Site Under Test: DM_DEVCPO2
+2015-03-31 13:17:37 INFO  BaseTest:237 - ***** User Running Test: esquivelj
+2015-03-31 13:17:37 INFO  BaseTest:237 - ***** User Running Test: esquivelj
+2015-03-31 13:17:37 INFO  BaseTest:237 - Starting DM and DS Test
+2015-03-31 13:17:37 INFO  BaseTest:237 - ***** Starting DS and DM Test: 
+2015-03-31 13:17:42 INFO  BaseTest:237 - Exception during test occurred : angular is not defined
+Command duration or timeout: 40 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'ocbstjew7lt', ip: '172.29.223.72', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+Session ID: 0461ff19-aef5-4644-81b4-1d72f97e3bc2
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=true, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=34.0.5}] org.openqa.selenium.WebDriverException: angular is not defined
+Command duration or timeout: 40 milliseconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'ocbstjew7lt', ip: '172.29.223.72', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.7.0_71'
+Session ID: 0461ff19-aef5-4644-81b4-1d72f97e3bc2
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities [{platform=WINDOWS, acceptSslCerts=true, javascriptEnabled=true, cssSelectorsEnabled=true, databaseEnabled=true, browserName=firefox, handlesAlerts=true, nativeEvents=true, webStorageEnabled=true, rotatable=false, locationContextEnabled=true, applicationCacheEnabled=true, takesScreenshot=true, version=34.0.5}]
+2015-03-31 13:17:42 INFO  BaseTest:237 - ***** TEST FAILED: DSDM_Test at Tue Mar 31 13-17-42 PDT 2015
+2015-03-31 13:17:42 INFO  BaseTest:237 - Generating screenshot for failed test: 
+2015-03-31 13:17:42 INFO  BaseTest:237 - Screenshot Path test-output\screenshots\FAIL_Tue_Mar_31_13-17-42_PDT_2015_DM_DEVCPO2-Firefox.png
+2015-03-31 13:17:42 INFO  BaseTest:237 - Saved screenshot for failed test
+2015-03-31 13:17:42 INFO  BaseTest:237 - Now attaching to TestNG Report
+2015-03-31 13:17:42 INFO  BaseTest:237 - ***** Tests have Finished 
+2015-03-31 13:17:42 INFO  BaseTest:237 - ***** Suite has Finished
+2015-03-31 13:24:54 INFO  BaseTest:237 - ***** Site Under Test: DM_DEVCPO2
+2015-03-31 13:24:54 INFO  BaseTest:237 - ***** User Running Test: esquivelj
+2015-03-31 13:24:54 INFO  BaseTest:237 - ***** User Running Test: esquivelj
+2015-03-31 13:24:54 INFO  BaseTest:237 - Starting DM and DS Test
+2015-03-31 13:24:54 INFO  BaseTest:237 - ***** Starting DS and DM Test: 
+2015-03-31 13:24:55 INFO  BaseTest:237 - Exception during test occurred : null java.lang.NullPointerException
+2015-03-31 13:24:55 INFO  BaseTest:237 - ***** TEST FAILED: DSDM_Test at Tue Mar 31 13-24-55 PDT 2015
+2015-03-31 13:24:55 INFO  BaseTest:237 - Generating screenshot for failed test: 
+2015-03-31 13:24:55 INFO  BaseTest:237 - Screenshot Path test-output\screenshots\FAIL_Tue_Mar_31_13-24-55_PDT_2015_DM_DEVCPO2-Firefox.png
+2015-03-31 13:24:55 INFO  BaseTest:237 - Saved screenshot for failed test
+2015-03-31 13:24:55 INFO  BaseTest:237 - Now attaching to TestNG Report
+2015-03-31 13:24:55 INFO  BaseTest:237 - ***** Tests have Finished 
+2015-03-31 13:24:55 INFO  BaseTest:237 - ***** Suite has Finished
+2015-03-31 13:31:35 INFO  BaseTest:238 - ***** Site Under Test: DM_DEVCPO2
+2015-03-31 13:31:35 INFO  BaseTest:238 - ***** User Running Test: esquivelj
+2015-03-31 13:31:35 INFO  BaseTest:238 - ***** User Running Test: esquivelj
+2015-03-31 13:31:35 INFO  BaseTest:238 - Starting DM and DS Test
+2015-03-31 13:31:35 INFO  BaseTest:238 - ***** Starting DS and DM Test: 
+2015-03-31 13:31:44 INFO  BaseTest:238 - DS Icon is Online and Synced.
+2015-03-31 13:31:47 INFO  BaseTest:238 - ***** TEST PASSED: DSDM_Test at Tue Mar 31 13-31-47 PDT 2015
+2015-03-31 13:31:47 INFO  BaseTest:238 - ***** Tests have Finished 
+2015-03-31 13:31:47 INFO  BaseTest:238 - ***** Suite has Finished
+2015-03-31 13:38:05 INFO  BaseTest:238 - ***** Site Under Test: DM_DEVCPO2
+2015-03-31 13:38:05 INFO  BaseTest:238 - ***** User Running Test: esquivelj
+2015-03-31 13:38:05 INFO  BaseTest:238 - ***** User Running Test: esquivelj
+2015-03-31 13:38:05 INFO  BaseTest:238 - Starting DM and DS Test
+2015-03-31 13:38:05 INFO  BaseTest:238 - ***** Starting DS and DM Test: 
+2015-03-31 13:38:13 INFO  BaseTest:238 - DS Icon is Online and Synced.
+2015-03-31 13:38:16 INFO  BaseTest:238 - ***** TEST PASSED: DSDM_Test at Tue Mar 31 13-38-16 PDT 2015
+2015-03-31 13:38:16 INFO  BaseTest:238 - ***** Tests have Finished 
+2015-03-31 13:38:16 INFO  BaseTest:238 - ***** Suite has Finished
+2015-03-31 13:40:30 INFO  BaseTest:238 - ***** Site Under Test: DM_DEVCPO2
+2015-03-31 13:40:30 INFO  BaseTest:238 - ***** User Running Test: esquivelj
+2015-03-31 13:40:30 INFO  BaseTest:238 - ***** User Running Test: esquivelj
+2015-03-31 13:40:30 INFO  BaseTest:238 - Starting DM and DS Test
+2015-03-31 13:40:30 INFO  BaseTest:238 - ***** Starting DS and DM Test: 
+2015-03-31 13:40:40 INFO  BaseTest:238 - DS Icon is Online and Synced.
+2015-03-31 13:40:42 INFO  BaseTest:238 - ***** TEST PASSED: DSDM_Test at Tue Mar 31 13-40-42 PDT 2015
+2015-03-31 13:40:42 INFO  BaseTest:238 - ***** Tests have Finished 
+2015-03-31 13:40:42 INFO  BaseTest:238 - ***** Suite has Finished
+2015-03-31 13:43:33 INFO  BaseTest:238 - ***** Site Under Test: DM_DEVCPO2
+2015-03-31 13:43:33 INFO  BaseTest:238 - ***** User Running Test: esquivelj
+2015-03-31 13:43:33 INFO  BaseTest:238 - ***** User Running Test: esquivelj
+2015-03-31 13:43:33 INFO  BaseTest:238 - Starting DM and DS Test
+2015-03-31 13:43:33 INFO  BaseTest:238 - ***** Starting DS and DM Test: 
+2015-03-31 13:43:42 INFO  BaseTest:238 - DS Icon is Online and Synced.
+2015-03-31 13:43:45 INFO  BaseTest:238 - ***** TEST PASSED: DSDM_Test at Tue Mar 31 13-43-45 PDT 2015
+2015-03-31 13:43:45 INFO  BaseTest:238 - ***** Tests have Finished 
+2015-03-31 13:43:45 INFO  BaseTest:238 - ***** Suite has Finished
+2015-04-10 14:33:18 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-04-10 14:33:18 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-04-10 14:33:18 INFO  BaseTest:232 - Starting DM and DS Test
+2015-04-10 14:33:18 INFO  BaseTest:232 - ***** Starting DS and DM Test: 
+2015-04-10 14:33:29 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-04-10 14:33:33 INFO  BaseTest:232 - ***** TEST PASSED: DSDM_Test at Fri Apr 10 14-33-33 CDT 2015
+2015-04-10 14:33:33 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-04-10 14:33:33 INFO  BaseTest:232 - ***** Suite has Finished
+2015-04-13 10:03:54 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-04-13 10:03:54 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-04-13 10:03:55 INFO  BaseTest:232 - Attempting to find Sleeping in the logs.
+2015-04-13 10:03:55 INFO  BaseTest:232 - Search string 'Sleeping' NOT FOUND in last 10 lines of CPO log file
+2015-04-13 10:03:55 INFO  BaseTest:232 - Test Sleeping=====
+2015-04-13 10:03:55 INFO  BaseTest:232 - Attempting to find last storage info from logs.
+2015-04-13 10:03:55 INFO  BaseTest:232 - Unable to find storage info in last 40 lines of CPO log file
+2015-04-13 10:03:55 INFO  BaseTest:232 - Remaining Storage=null
+2015-04-13 10:03:55 INFO  BaseTest:232 - Checking to see if clouddrivew.exe is running.
+2015-04-13 10:03:55 INFO  BaseTest:232 - DS is NOT running, attempting to start it.
+2015-04-13 10:03:55 INFO  BaseTest:232 - Checking to see if clouddrivew.exe is running.
+2015-04-13 10:03:55 INFO  BaseTest:232 - Found Task Info: clouddrivew.exe               7972 Console                    1      5,164 K
+2015-04-13 10:04:05 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-04-13 10:04:05 INFO  BaseTest:232 - Yep!  DS is ready.
+2015-04-13 10:04:05 INFO  BaseTest:232 - ***** TEST PASSED: testMe at Mon Apr 13 10-04-05 CDT 2015
+2015-04-13 10:04:05 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-04-13 10:04:06 INFO  BaseTest:232 - ***** Suite has Finished
+2015-04-13 10:09:57 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-04-13 10:09:57 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-04-13 10:09:57 INFO  BaseTest:232 - Attempting to find Sleeping in the logs.
+2015-04-13 10:09:57 INFO  BaseTest:232 - Search string 'Sleeping' NOT FOUND in last 10 lines of CPO log file
+2015-04-13 10:09:57 INFO  BaseTest:232 - Test Sleeping=====
+2015-04-13 10:09:57 INFO  BaseTest:232 - Attempting to find last storage info from logs.
+2015-04-13 10:09:57 INFO  BaseTest:232 - Unable to find storage info in last 40 lines of CPO log file
+2015-04-13 10:09:57 INFO  BaseTest:232 - Remaining Storage=null
+2015-04-13 10:09:57 INFO  BaseTest:232 - Checking to see if clouddrivew.exe is running.
+2015-04-13 10:09:57 INFO  BaseTest:232 - Found Task Info: clouddrivew.exe               7972 Console                    1     51,796 K
+2015-04-13 10:09:58 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-04-13 10:09:58 INFO  BaseTest:232 - DS is synced and ready to test.
+2015-04-13 10:09:58 INFO  BaseTest:232 - Yep!  DS is ready.
+2015-04-13 10:09:58 INFO  BaseTest:232 - ***** TEST PASSED: testMe at Mon Apr 13 10-09-58 CDT 2015
+2015-04-13 10:09:58 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-04-13 10:09:58 INFO  BaseTest:232 - ***** Suite has Finished
+2015-04-13 10:17:09 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-04-13 10:17:09 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-04-13 10:17:09 INFO  BaseTest:232 - Attempting to find ERROR    nxdrive.engine in the logs.
+2015-04-13 10:17:09 INFO  BaseTest:232 - Search string 'ERROR    nxdrive.engine' NOT FOUND in last 40 lines of CPO log file
+2015-04-13 10:17:09 INFO  BaseTest:232 - Test Sleeping=====
+2015-04-13 10:17:09 INFO  BaseTest:232 - Attempting to find last storage info from logs.
+2015-04-13 10:17:09 INFO  BaseTest:232 - Unable to find storage info in last 40 lines of CPO log file
+2015-04-13 10:17:09 INFO  BaseTest:232 - Remaining Storage=null
+2015-04-13 10:17:09 INFO  BaseTest:232 - Checking to see if clouddrivew.exe is running.
+2015-04-13 10:17:09 INFO  BaseTest:232 - Found Task Info: clouddrivew.exe               7972 Console                    1     51,816 K
+2015-04-13 10:17:10 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-04-13 10:17:10 INFO  BaseTest:232 - DS is synced and ready to test.
+2015-04-13 10:17:10 INFO  BaseTest:232 - Yep!  DS is ready.
+2015-04-13 10:17:10 INFO  BaseTest:232 - ***** TEST PASSED: testMe at Mon Apr 13 10-17-10 CDT 2015
+2015-04-13 10:17:10 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-04-13 10:17:10 INFO  BaseTest:232 - ***** Suite has Finished
+2015-04-13 10:18:58 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-04-13 10:18:58 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-04-13 10:18:58 INFO  BaseTest:232 - Attempting to find nxdrive.engine.workers HTTP Error 503 in the logs.
+2015-04-13 10:18:58 INFO  BaseTest:232 - Log Test=====2015-04-13 10:03:57,122
+2015-04-13 10:18:58 INFO  BaseTest:232 - Attempting to find last storage info from logs.
+2015-04-13 10:18:58 INFO  BaseTest:232 - Unable to find storage info in last 40 lines of CPO log file
+2015-04-13 10:18:58 INFO  BaseTest:232 - Remaining Storage=null
+2015-04-13 10:18:58 INFO  BaseTest:232 - Checking to see if clouddrivew.exe is running.
+2015-04-13 10:18:58 INFO  BaseTest:232 - Found Task Info: clouddrivew.exe               7972 Console                    1     51,816 K
+2015-04-13 10:18:58 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-04-13 10:18:58 INFO  BaseTest:232 - DS is synced and ready to test.
+2015-04-13 10:18:58 INFO  BaseTest:232 - Yep!  DS is ready.
+2015-04-13 10:18:58 INFO  BaseTest:232 - ***** TEST PASSED: testMe at Mon Apr 13 10-18-58 CDT 2015
+2015-04-13 10:18:58 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-04-13 10:18:58 INFO  BaseTest:232 - ***** Suite has Finished
+2015-04-13 10:49:21 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-04-13 10:49:21 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-04-13 10:49:21 INFO  BaseTest:232 - whoops... C:\Users\rholm\AppData\Local\Sharp\.cpo-drive\logs\nxdrive.log (The system cannot find the file specified)
+2015-04-13 10:49:21 INFO  BaseTest:232 - ***** TEST PASSED: testMe at Mon Apr 13 10-49-21 CDT 2015
+2015-04-13 10:49:21 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-04-13 10:49:21 INFO  BaseTest:232 - ***** Suite has Finished
+2015-04-13 10:50:52 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-04-13 10:50:52 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-04-13 10:50:52 INFO  BaseTest:232 - Checking to see if clouddrivew.exe is running.
+2015-04-13 10:50:52 INFO  BaseTest:232 - DS is NOT running, attempting to start it.
+2015-04-13 10:50:52 INFO  BaseTest:232 - Checking to see if clouddrivew.exe is running.
+2015-04-13 10:50:52 INFO  BaseTest:232 - Found Task Info: clouddrivew.exe               8808 Console                    1      9,360 K
+2015-04-13 10:51:02 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-04-13 10:51:02 INFO  BaseTest:232 - Yep!  DS is ready.
+2015-04-13 10:51:02 INFO  BaseTest:232 - ***** TEST PASSED: testMe at Mon Apr 13 10-51-02 CDT 2015
+2015-04-13 10:51:02 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-04-13 10:51:03 INFO  BaseTest:232 - ***** Suite has Finished
+2015-04-16 16:22:53 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-04-16 16:22:53 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-04-16 16:22:53 INFO  BaseTest:232 - ***** Starting Test: 
+2015-04-16 16:23:22 INFO  BaseTest:232 - Exception during test occurred : can not find ds2_menu_open_cpofolder.png in S(0)[0,0 1920x1080]
+2015-04-16 16:23:22 INFO  BaseTest:232 - ***** TEST FAILED: BSTCPO_2632_Test at Thu Apr 16 16-23-22 CDT 2015
+2015-04-16 16:23:22 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-04-16 16:23:22 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Thu_Apr_16_16-23-22_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-04-16 16:23:22 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-04-16 16:23:22 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-04-16 16:23:22 INFO  BaseTest:232 - ==== BEGIN TEST - BSTCPO_2635
+2015-04-16 16:23:22 INFO  BaseTest:232 - Pre-test clean up, sync if needed before test begins.
+2015-04-16 16:23:22 INFO  BaseTest:232 - Verifying if file exists : C:\Users\rholm\Cloud Portal Office\My Docs\BSTCPO_2635.rtf
+2015-04-16 16:23:22 INFO  BaseTest:232 - Expected file DOES NOT exist: C:\Users\rholm\Cloud Portal Office\My Docs\BSTCPO_2635.rtf
+2015-04-16 16:23:22 INFO  BaseTest:232 - Verifying if file exists : C:\Users\rholm\Cloud Portal Office\My Docs\10MB_File.txt
+2015-04-16 16:23:22 INFO  BaseTest:232 - Expected file DOES NOT exist: C:\Users\rholm\Cloud Portal Office\My Docs\10MB_File.txt
+2015-04-16 16:23:22 INFO  BaseTest:232 - Exception during test occurred : C:\Users\rholm\AppData\Local\Sharp\.cpo-desktop\logs\cpodesktop.log (The system cannot find the path specified)
+2015-04-16 16:23:22 INFO  BaseTest:232 - ***** TEST FAILED: BSTCPO_2635_Test at Thu Apr 16 16-23-22 CDT 2015
+2015-04-16 16:23:22 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-04-16 16:23:22 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Thu_Apr_16_16-23-22_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-04-16 16:23:23 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-04-16 16:23:23 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-04-16 16:23:23 INFO  BaseTest:232 - Directory sequence created: C:\Users\rholm\Cloud Portal Office\My Docs\BSTCPO_2650
+2015-04-16 16:23:23 INFO  BaseTest:232 - Waiting 60 seconds for sync to complete...
+2015-04-30 16:59:43 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-04-30 16:59:43 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-04-30 16:59:43 INFO  BaseTest:232 - ***** Starting Test: 
+2015-04-30 16:59:47 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-04-30 16:59:52 INFO  BaseTest:232 - Exception during test occurred : can not find ds2_menu_open_cpofolder.png in S(0)[0,0 1920x1080]
+2015-04-30 16:59:52 INFO  BaseTest:232 - ***** TEST FAILED: BSTCPO_2632_Test at Thu Apr 30 16-59-52 CDT 2015
+2015-04-30 16:59:52 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-04-30 16:59:52 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Thu_Apr_30_16-59-52_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-04-30 16:59:53 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-04-30 16:59:53 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-04-30 16:59:53 INFO  BaseTest:232 - ==== BEGIN TEST - BSTCPO_2635
+2015-04-30 16:59:53 INFO  BaseTest:232 - Pre-test clean up, sync if needed before test begins.
+2015-04-30 16:59:53 INFO  BaseTest:232 - Verifying if file exists : C:\Users\rholm\Cloud Portal Office\My Docs\BSTCPO_2635.rtf
+2015-04-30 16:59:53 INFO  BaseTest:232 - Expected file DOES NOT exist: C:\Users\rholm\Cloud Portal Office\My Docs\BSTCPO_2635.rtf
+2015-04-30 16:59:53 INFO  BaseTest:232 - Verifying if file exists : C:\Users\rholm\Cloud Portal Office\My Docs\10MB_File.txt
+2015-04-30 16:59:53 INFO  BaseTest:232 - Expected file DOES NOT exist: C:\Users\rholm\Cloud Portal Office\My Docs\10MB_File.txt
+2015-04-30 16:59:53 INFO  BaseTest:232 - Exception during test occurred : C:\Users\rholm\AppData\Local\Sharp\.cpo-desktop\logs\cpodesktop.log (The system cannot find the path specified)
+2015-04-30 16:59:53 INFO  BaseTest:232 - ***** TEST FAILED: BSTCPO_2635_Test at Thu Apr 30 16-59-53 CDT 2015
+2015-04-30 16:59:53 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-04-30 16:59:53 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Thu_Apr_30_16-59-53_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-04-30 16:59:53 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-04-30 16:59:53 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-04-30 16:59:53 INFO  BaseTest:232 - Directory sequence created: C:\Users\rholm\Cloud Portal Office\My Docs\BSTCPO_2650
+2015-04-30 16:59:53 INFO  BaseTest:232 - Waiting 60 seconds for sync to complete...
+2015-06-12 14:02:33 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-12 14:02:33 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 14:02:33 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-12 14:02:37 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-12 14:02:38 INFO  BaseTest:232 - ***** TEST PASSED: DSDM_Test at Fri Jun 12 14-02-38 CDT 2015
+2015-06-12 14:02:38 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 14:02:38 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 14:03:25 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-12 14:03:25 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 14:03:25 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-12 14:03:29 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-12 14:03:33 INFO  BaseTest:232 - whoops... can not find ds2_menu_open_cpofolder.png in S(0)[0,0 1920x1080]
+2015-06-12 14:03:33 INFO  BaseTest:232 - ***** TEST PASSED: DSDM_Test at Fri Jun 12 14-03-33 CDT 2015
+2015-06-12 14:03:33 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 14:03:33 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 14:12:23 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-12 14:12:23 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 14:12:23 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-12 14:12:27 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-12 14:12:31 INFO  BaseTest:232 - whoops... can not find ds2_menu_open_cpofolder.png in S(0)[0,0 1920x1080]
+2015-06-12 14:12:31 INFO  BaseTest:232 - ***** TEST PASSED: DSDM_Test at Fri Jun 12 14-12-31 CDT 2015
+2015-06-12 14:12:31 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 14:12:31 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 14:15:04 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-12 14:15:04 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 14:15:04 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-12 14:20:26 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-12 14:20:26 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 14:20:26 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-12 14:21:26 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-12 14:21:26 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 14:21:26 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-12 14:21:30 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-12 14:21:32 INFO  BaseTest:232 - ***** TEST PASSED: DSDM_Test at Fri Jun 12 14-21-32 CDT 2015
+2015-06-12 14:21:32 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 14:21:32 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 14:39:55 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-12 14:39:55 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 14:39:55 INFO  BaseTest:232 - Starting DM and DS Test
+2015-06-12 14:39:55 INFO  BaseTest:232 - ***** Starting DS and DM Test: 
+2015-06-12 14:40:05 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-12 14:40:07 INFO  BaseTest:232 - ***** TEST PASSED: DSDM_Test at Fri Jun 12 14-40-07 CDT 2015
+2015-06-12 14:40:07 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 14:40:07 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 14:41:53 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-12 14:41:53 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 14:41:53 INFO  BaseTest:232 - Starting DM and DS Test
+2015-06-12 14:41:53 INFO  BaseTest:232 - ***** Starting DS and DM Test: 
+2015-06-12 14:42:03 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-12 14:42:05 INFO  BaseTest:232 - ***** TEST PASSED: DSDM_Test at Fri Jun 12 14-42-05 CDT 2015
+2015-06-12 14:42:05 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 14:42:06 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 14:44:20 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-12 14:44:20 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 14:44:20 INFO  BaseTest:232 - Starting DM and DS Test
+2015-06-12 14:44:20 INFO  BaseTest:232 - ***** Starting DS and DM Test: 
+2015-06-12 14:44:30 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-12 14:44:33 INFO  BaseTest:232 - ***** TEST PASSED: DSDM_Test at Fri Jun 12 14-44-33 CDT 2015
+2015-06-12 14:44:33 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 14:44:33 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 14:46:24 INFO  BaseTest:232 - ***** Site Under Test: DM_QA2
+2015-06-12 14:46:24 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 14:46:24 INFO  BaseTest:232 - Starting DM and DS Test
+2015-06-12 14:46:24 INFO  BaseTest:232 - ***** Starting DS and DM Test: 
+2015-06-12 14:46:50 INFO  BaseTest:232 - ***** TEST FAILED: DSDM_Test at Fri Jun 12 14-46-50 CDT 2015
+2015-06-12 14:46:50 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-12 14:46:50 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Fri_Jun_12_14-46-50_CDT_2015_DM_QA2-Firefox.png
+2015-06-12 14:46:50 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-12 14:46:50 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-12 14:46:50 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 14:46:50 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 15:12:25 INFO  BaseTest:232 - ***** Site Under Test: DM_QA2
+2015-06-12 15:12:25 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 15:12:25 INFO  BaseTest:232 - Starting DM and DS Test
+2015-06-12 15:12:25 INFO  BaseTest:232 - ***** Starting DS and DM Test: 
+2015-06-12 15:12:54 INFO  BaseTest:232 - ***** TEST FAILED: DSDM_Test at Fri Jun 12 15-12-54 CDT 2015
+2015-06-12 15:12:54 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-12 15:12:54 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Fri_Jun_12_15-12-54_CDT_2015_DM_QA2-Firefox.png
+2015-06-12 15:12:54 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-12 15:12:54 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-12 15:12:54 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 15:12:55 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 15:13:41 INFO  BaseTest:232 - ***** Site Under Test: DM_QA2
+2015-06-12 15:13:41 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 15:13:41 INFO  BaseTest:232 - Starting DM and DS Test
+2015-06-12 15:13:41 INFO  BaseTest:232 - ***** Starting DS and DM Test: 
+2015-06-12 15:14:09 INFO  BaseTest:232 - ***** TEST FAILED: DSDM_Test at Fri Jun 12 15-14-09 CDT 2015
+2015-06-12 15:14:09 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-12 15:14:09 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Fri_Jun_12_15-14-09_CDT_2015_DM_QA2-Firefox.png
+2015-06-12 15:14:09 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-12 15:14:09 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-12 15:14:09 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 15:14:09 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 15:26:19 INFO  BaseTest:232 - ***** Site Under Test: DM_QA2
+2015-06-12 15:26:19 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 15:26:19 INFO  BaseTest:232 - Starting DM and DS Test
+2015-06-12 15:26:19 INFO  BaseTest:232 - ***** Starting DS and DM Test: 
+2015-06-12 15:26:45 INFO  BaseTest:232 - ***** TEST FAILED: DSDM_Test at Fri Jun 12 15-26-45 CDT 2015
+2015-06-12 15:26:45 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-12 15:26:45 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Fri_Jun_12_15-26-45_CDT_2015_DM_QA2-Firefox.png
+2015-06-12 15:26:45 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-12 15:26:45 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-12 15:26:45 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 15:26:46 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-12 16:21:53 INFO  BaseTest:232 - ***** Site Under Test: DM_QA2
+2015-06-12 16:21:53 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-12 16:21:53 INFO  BaseTest:232 - Starting DM and DS Test
+2015-06-12 16:21:53 INFO  BaseTest:232 - ***** Starting DS and DM Test: 
+2015-06-12 16:22:19 INFO  BaseTest:232 - ***** TEST FAILED: DSDM_Test at Fri Jun 12 16-22-19 CDT 2015
+2015-06-12 16:22:19 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-12 16:22:19 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Fri_Jun_12_16-22-19_CDT_2015_DM_QA2-Firefox.png
+2015-06-12 16:22:19 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-12 16:22:19 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-12 16:22:19 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-12 16:22:20 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 10:11:05 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 10:11:05 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 10:11:05 INFO  BaseTest:232 - Starting DM and DS Test
+2015-06-15 10:11:05 INFO  BaseTest:232 - ***** Starting DS and DM Test: 
+2015-06-15 10:12:22 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 10:12:22 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 10:12:22 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 10:12:22 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 10:12:26 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:12:28 INFO  BaseTest:232 - Exception during test occurred : Region: doFind: Image not loadable: windows7_folder_close
+2015-06-15 10:12:28 INFO  BaseTest:232 - ***** TEST FAILED: OpenFolder_Test at Mon Jun 15 10-12-28 CDT 2015
+2015-06-15 10:12:28 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 10:12:28 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_10-12-28_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 10:12:28 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 10:12:28 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 10:12:28 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 10:12:32 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:12:33 INFO  BaseTest:232 - Exception during test occurred : org.sikuli.script.Pattern cannot be cast to java.lang.String
+2015-06-15 10:12:33 INFO  BaseTest:232 - ***** TEST FAILED: Settings_Test at Mon Jun 15 10-12-33 CDT 2015
+2015-06-15 10:12:33 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 10:12:33 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_10-12-33_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 10:12:33 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 10:12:33 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 10:12:33 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 10:12:34 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 10:12:34 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 10:16:02 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 10:16:02 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 10:16:02 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 10:16:02 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 10:16:06 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:16:09 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 10-16-09 CDT 2015
+2015-06-15 10:16:09 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 10:16:13 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:16:19 INFO  BaseTest:232 - Exception during test occurred : can not find ds2_settings_general.png in S(0)[0,0 1920x1080]
+2015-06-15 10:16:19 INFO  BaseTest:232 - ***** TEST FAILED: Settings_Test at Mon Jun 15 10-16-19 CDT 2015
+2015-06-15 10:16:19 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 10:16:19 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_10-16-19_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 10:16:19 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 10:16:19 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 10:16:19 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 10:16:20 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 10:16:20 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 10:16:50 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 10:16:50 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 10:16:50 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 10:16:50 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 10:16:55 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:16:58 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 10-16-58 CDT 2015
+2015-06-15 10:16:58 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 10:17:02 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:17:07 INFO  BaseTest:232 - Exception during test occurred : can not find ds2_settings_general.png in S(0)[0,0 1920x1080]
+2015-06-15 10:17:07 INFO  BaseTest:232 - ***** TEST FAILED: Settings_Test at Mon Jun 15 10-17-07 CDT 2015
+2015-06-15 10:17:07 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 10:17:07 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_10-17-07_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 10:17:08 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 10:17:08 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 10:17:08 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 10:17:09 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 10:17:09 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 10:21:33 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 10:21:33 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 10:21:33 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 10:21:33 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 10:21:37 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:21:41 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 10-21-41 CDT 2015
+2015-06-15 10:21:41 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 10:21:44 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:21:51 INFO  BaseTest:232 - Exception during test occurred : can not find ds2_settings_general.png in S(0)[0,0 1920x1080]
+2015-06-15 10:21:51 INFO  BaseTest:232 - ***** TEST FAILED: Settings_Test at Mon Jun 15 10-21-51 CDT 2015
+2015-06-15 10:21:51 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 10:21:51 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_10-21-51_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 10:21:51 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 10:21:51 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 10:21:51 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 10:21:52 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 10:21:52 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 10:23:41 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 10:23:41 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 10:23:41 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 10:23:41 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 10:23:45 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:23:49 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 10-23-49 CDT 2015
+2015-06-15 10:23:49 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 10:23:52 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:23:58 INFO  BaseTest:232 - Exception during test occurred : Region: doFind: Image not loadable: ds2_settomgs_accounts.png
+2015-06-15 10:23:58 INFO  BaseTest:232 - ***** TEST FAILED: Settings_Test at Mon Jun 15 10-23-58 CDT 2015
+2015-06-15 10:23:58 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 10:23:58 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_10-23-58_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 10:23:59 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 10:23:59 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 10:23:59 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 10:24:00 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 10:24:00 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 10:26:29 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 10:26:29 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 10:26:29 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 10:26:29 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 10:26:34 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:26:37 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 10-26-37 CDT 2015
+2015-06-15 10:26:37 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 10:26:40 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:26:49 INFO  BaseTest:232 - Exception during test occurred : can not find ds2_settings_accounts.png in S(0)[0,0 1920x1080]
+2015-06-15 10:26:49 INFO  BaseTest:232 - ***** TEST FAILED: Settings_Test at Mon Jun 15 10-26-49 CDT 2015
+2015-06-15 10:26:49 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 10:26:49 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_10-26-49_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 10:26:50 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 10:26:50 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 10:26:50 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 10:26:51 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 10:26:51 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 10:27:41 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 10:27:41 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 10:27:41 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 10:27:41 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 10:27:45 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:27:48 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 10-27-48 CDT 2015
+2015-06-15 10:27:48 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 10:27:52 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:27:59 INFO  BaseTest:232 - Exception during test occurred : Region: doFind: Image not loadable: ds2_settings_advanced.png
+2015-06-15 10:27:59 INFO  BaseTest:232 - ***** TEST FAILED: Settings_Test at Mon Jun 15 10-27-59 CDT 2015
+2015-06-15 10:27:59 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 10:27:59 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_10-27-59_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 10:27:59 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 10:27:59 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 10:27:59 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 10:28:00 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 10:28:00 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 10:29:09 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 10:29:09 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 10:29:09 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 10:29:09 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 10:29:13 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:29:17 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 10-29-17 CDT 2015
+2015-06-15 10:29:17 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 10:29:20 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:29:29 INFO  BaseTest:232 - Exception during test occurred : Region: doFind: Image not loadable: ds2_preferences_about.png
+2015-06-15 10:29:29 INFO  BaseTest:232 - ***** TEST FAILED: Settings_Test at Mon Jun 15 10-29-29 CDT 2015
+2015-06-15 10:29:29 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 10:29:29 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_10-29-29_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 10:29:29 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 10:29:29 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 10:29:29 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 10:29:30 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 10:29:30 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 10:37:44 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 10:37:44 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 10:37:44 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 10:37:44 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 10:37:49 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:37:52 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 10-37-52 CDT 2015
+2015-06-15 10:37:52 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 10:37:56 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 10:38:05 INFO  BaseTest:232 - Exception during test occurred : Region: doFind: Image not loadable: ds_preferences_cancel.png
+2015-06-15 10:38:05 INFO  BaseTest:232 - ***** TEST FAILED: Settings_Test at Mon Jun 15 10-38-05 CDT 2015
+2015-06-15 10:38:05 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 10:38:05 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_10-38-05_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 10:38:06 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 10:38:06 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 10:38:06 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 10:38:07 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 10:38:07 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 11:04:39 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 11:04:39 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 11:04:39 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 11:04:39 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 11:04:43 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 11:04:47 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 11-04-47 CDT 2015
+2015-06-15 11:04:47 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 11:04:51 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 11:05:00 INFO  BaseTest:232 - ***** TEST PASSED: Settings_Test at Mon Jun 15 11-05-00 CDT 2015
+2015-06-15 11:05:00 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 11:05:04 INFO  BaseTest:232 - Exception during test occurred : can not find ds2_settings_general_start_on_boot_checked.png in S(0)[0,0 1920x1080]
+2015-06-15 11:05:04 INFO  BaseTest:232 - ***** TEST FAILED: General_Tab_Test at Mon Jun 15 11-05-04 CDT 2015
+2015-06-15 11:05:04 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 11:05:04 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_11-05-04_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 11:05:05 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 11:05:05 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 11:05:05 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 11:05:06 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 11:05:06 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 11:17:27 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 11:17:27 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 11:17:27 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 11:17:27 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 11:17:31 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 11:17:35 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 11-17-35 CDT 2015
+2015-06-15 11:17:35 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 11:17:39 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 11:17:48 INFO  BaseTest:232 - ***** TEST PASSED: Settings_Test at Mon Jun 15 11-17-48 CDT 2015
+2015-06-15 11:17:48 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 11:17:55 INFO  BaseTest:232 - Exception during test occurred : can not find ds2_settings_general_update_cpo_checked.png in S(0)[0,0 1920x1080]
+2015-06-15 11:17:55 INFO  BaseTest:232 - ***** TEST FAILED: General_Tab_Test at Mon Jun 15 11-17-55 CDT 2015
+2015-06-15 11:17:55 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 11:17:55 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_11-17-55_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 11:17:55 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 11:17:55 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 11:17:55 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 11:17:56 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 11:17:56 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 11:19:25 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 11:19:25 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 11:19:25 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 11:19:25 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 11:19:30 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 11:19:33 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 11-19-33 CDT 2015
+2015-06-15 11:19:33 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 11:19:37 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 11:19:46 INFO  BaseTest:232 - ***** TEST PASSED: Settings_Test at Mon Jun 15 11-19-46 CDT 2015
+2015-06-15 11:19:46 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 11:19:54 INFO  BaseTest:232 - Exception during test occurred : can not find ds2_settings_general_report_usage_unchecked.png in S(0)[0,0 1920x1080]
+2015-06-15 11:19:54 INFO  BaseTest:232 - ***** TEST FAILED: General_Tab_Test at Mon Jun 15 11-19-54 CDT 2015
+2015-06-15 11:19:54 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 11:19:54 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_11-19-54_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 11:19:54 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 11:19:54 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 11:19:54 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 11:19:55 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 11:19:55 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 11:21:13 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 11:21:13 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 11:21:13 INFO  BaseTest:232 - starting demo ds test
+2015-06-15 11:21:13 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 11:21:18 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 11:21:22 INFO  BaseTest:232 - ***** TEST PASSED: OpenFolder_Test at Mon Jun 15 11-21-22 CDT 2015
+2015-06-15 11:21:22 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 11:21:25 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 11:21:35 INFO  BaseTest:232 - ***** TEST PASSED: Settings_Test at Mon Jun 15 11-21-35 CDT 2015
+2015-06-15 11:21:35 INFO  BaseTest:232 - starting preferences ds test
+2015-06-15 11:21:43 INFO  BaseTest:232 - ***** TEST PASSED: General_Tab_Test at Mon Jun 15 11-21-43 CDT 2015
+2015-06-15 11:21:43 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 11:21:44 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 11:21:44 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 12:17:23 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 12:17:23 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 12:17:23 INFO  BaseTest:232 - Starting Open_Folder_Test test
+2015-06-15 12:17:23 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 12:17:28 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 12:17:31 INFO  BaseTest:232 - ***** TEST PASSED: Open_Folder_Test at Mon Jun 15 12-17-31 CDT 2015
+2015-06-15 12:17:31 INFO  BaseTest:232 - Starting Settings_Test
+2015-06-15 12:17:35 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 12:17:44 INFO  BaseTest:232 - ***** TEST PASSED: Settings_Test at Mon Jun 15 12-17-44 CDT 2015
+2015-06-15 12:17:44 INFO  BaseTest:232 - Starting General_Tab_Test
+2015-06-15 12:17:53 INFO  BaseTest:232 - ***** TEST PASSED: General_Tab_Test at Mon Jun 15 12-17-53 CDT 2015
+2015-06-15 12:17:53 INFO  BaseTest:232 - Starting Disconnect_User_Test
+2015-06-15 12:17:58 INFO  BaseTest:232 - Exception during test occurred : can not find ds2_settings_accounts_confirm.png in S(0)[0,0 1920x1080]
+2015-06-15 12:17:58 INFO  BaseTest:232 - ***** TEST FAILED: Disconnect_User_Test at Mon Jun 15 12-17-58 CDT 2015
+2015-06-15 12:17:58 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 12:17:58 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_12-17-58_CDT_2015_DM_DEVCPO2-Firefox.png
+2015-06-15 12:17:59 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 12:17:59 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 12:17:59 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 12:18:00 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 12:18:00 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 12:22:59 INFO  BaseTest:232 - ***** Site Under Test: DM_DEVCPO2
+2015-06-15 12:22:59 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 12:22:59 INFO  BaseTest:232 - Starting Open_Folder_Test test
+2015-06-15 12:22:59 INFO  BaseTest:232 - ***** Starting Test: 
+2015-06-15 12:23:03 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 12:23:07 INFO  BaseTest:232 - ***** TEST PASSED: Open_Folder_Test at Mon Jun 15 12-23-07 CDT 2015
+2015-06-15 12:23:07 INFO  BaseTest:232 - Starting Settings_Test
+2015-06-15 12:23:10 INFO  BaseTest:232 - DS Icon is Online and Synced.
+2015-06-15 12:23:20 INFO  BaseTest:232 - ***** TEST PASSED: Settings_Test at Mon Jun 15 12-23-20 CDT 2015
+2015-06-15 12:23:20 INFO  BaseTest:232 - Starting General_Tab_Test
+2015-06-15 12:23:28 INFO  BaseTest:232 - ***** TEST PASSED: General_Tab_Test at Mon Jun 15 12-23-28 CDT 2015
+2015-06-15 12:23:28 INFO  BaseTest:232 - Starting Disconnect_User_Test
+2015-06-15 12:23:31 INFO  BaseTest:232 - ***** TEST PASSED: Disconnect_User_Test at Mon Jun 15 12-23-31 CDT 2015
+2015-06-15 12:23:31 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 12:23:32 INFO  BaseTest:232 - WebDriver was already closed
+2015-06-15 12:23:32 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:17:12 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:17:12 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:17:12 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:17:12 INFO  BaseTest:232 - Exception during test occurred : C:\Users\rholm\AppData\Local\Sharp\.cpo-desktop\logs\cpodesktop.log (The system cannot find the path specified)
+2015-06-15 13:17:12 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-17-12 CDT 2015
+2015-06-15 13:17:12 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:17:12 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-17-12_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:17:12 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:17:12 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:17:12 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:17:12 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:18:39 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:18:39 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:18:39 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:18:39 INFO  BaseTest:232 - Exception during test occurred : C:\Users\rholm\AppData\Local\Sharp\.cpo-desktop\logs\clouddrive.log (The system cannot find the path specified)
+2015-06-15 13:18:39 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-18-39 CDT 2015
+2015-06-15 13:18:39 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:18:39 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-18-39_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:18:39 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:18:39 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:18:39 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:18:40 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:20:31 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:20:31 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:20:31 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:20:31 INFO  BaseTest:232 - Exception during test occurred : For input string: "(0.05"
+2015-06-15 13:20:31 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-20-31 CDT 2015
+2015-06-15 13:20:31 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:20:31 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-20-31_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:20:31 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:20:31 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:20:31 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:20:32 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:23:13 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:23:13 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:23:13 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:23:13 INFO  BaseTest:232 - Exception during test occurred : For input string: "10.0)"
+2015-06-15 13:23:13 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-23-13 CDT 2015
+2015-06-15 13:23:13 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:23:13 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-23-13_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:23:14 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:23:14 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:23:14 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:23:14 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:24:11 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:24:11 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:24:11 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:24:11 INFO  BaseTest:232 - Exception during test occurred : 3
+2015-06-15 13:24:11 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-24-11 CDT 2015
+2015-06-15 13:24:11 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:24:11 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-24-11_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:24:11 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:24:11 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:24:11 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:24:11 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:24:53 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:24:53 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:24:53 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:24:53 INFO  BaseTest:232 - Exception during test occurred : 3
+2015-06-15 13:24:53 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-24-53 CDT 2015
+2015-06-15 13:24:53 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:24:53 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-24-53_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:24:53 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:24:53 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:24:53 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:24:53 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:26:41 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:26:41 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:26:41 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:26:41 INFO  BaseTest:232 - Exception during test occurred : For input string: "10.0)"
+2015-06-15 13:26:41 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-26-41 CDT 2015
+2015-06-15 13:26:41 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:26:41 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-26-41_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:26:41 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:26:41 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:26:41 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:26:41 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:27:15 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:27:15 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:27:15 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:27:15 INFO  BaseTest:232 - Exception during test occurred : 3
+2015-06-15 13:27:15 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-27-15 CDT 2015
+2015-06-15 13:27:15 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:27:15 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-27-15_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:27:15 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:27:15 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:27:15 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:27:15 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:28:35 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:28:35 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:28:35 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:28:35 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:28:35 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:28:35 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:28:35 INFO  BaseTest:232 - strTotal= 10.0)
+2015-06-15 13:28:35 INFO  BaseTest:232 - Exception during test occurred : For input string: "10.0)"
+2015-06-15 13:28:35 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-28-35 CDT 2015
+2015-06-15 13:28:35 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:28:35 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-28-35_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:28:35 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:28:35 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:28:35 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:28:36 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:29:13 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:29:13 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:29:13 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:29:13 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:29:13 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:29:13 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:29:13 INFO  BaseTest:232 - strTotal= 10.0)
+2015-06-15 13:29:13 INFO  BaseTest:232 - Exception during test occurred : For input string: "10.0)"
+2015-06-15 13:29:13 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-29-13 CDT 2015
+2015-06-15 13:29:13 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:29:13 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-29-13_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:29:13 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:29:13 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:29:13 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:29:13 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:31:05 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:31:05 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:31:05 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:31:05 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:31:05 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:31:05 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:31:05 INFO  BaseTest:232 - last index=45
+2015-06-15 13:31:05 INFO  BaseTest:232 - length53
+2015-06-15 13:31:05 INFO  BaseTest:232 - strTotal= 10.0)
+2015-06-15 13:31:05 INFO  BaseTest:232 - Exception during test occurred : For input string: "10.0)"
+2015-06-15 13:31:05 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-31-05 CDT 2015
+2015-06-15 13:31:05 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:31:05 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-31-05_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:31:05 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:31:05 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:31:05 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:31:05 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:32:15 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:32:15 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:32:15 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:32:15 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:32:15 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:32:15 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:32:15 INFO  BaseTest:232 - last index=45
+2015-06-15 13:32:15 INFO  BaseTest:232 - length=53
+2015-06-15 13:32:15 INFO  BaseTest:232 - strTotal= 10.0)
+2015-06-15 13:32:15 INFO  BaseTest:232 - Exception during test occurred : For input string: "10.0)"
+2015-06-15 13:32:15 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-32-15 CDT 2015
+2015-06-15 13:32:15 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:32:15 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-32-15_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:32:15 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:32:15 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:32:15 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:32:15 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:33:11 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:33:11 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:33:11 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:33:11 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:33:11 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:33:11 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:33:11 INFO  BaseTest:232 - last index=45
+2015-06-15 13:33:11 INFO  BaseTest:232 - length=53
+2015-06-15 13:33:11 INFO  BaseTest:232 - strTotal= 10.0)
+2015-06-15 13:33:11 INFO  BaseTest:232 - Exception during test occurred : 3
+2015-06-15 13:33:11 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-33-11 CDT 2015
+2015-06-15 13:33:11 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:33:11 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-33-11_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:33:11 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:33:11 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:33:11 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:33:11 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:37:05 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:37:05 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:37:05 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:37:05 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:37:05 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:37:05 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:37:05 INFO  BaseTest:232 - last index=45
+2015-06-15 13:37:05 INFO  BaseTest:232 - length=53
+2015-06-15 13:37:05 INFO  BaseTest:232 - Exception during test occurred : 3
+2015-06-15 13:37:05 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-37-05 CDT 2015
+2015-06-15 13:37:05 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:37:05 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-37-05_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:37:05 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:37:05 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:37:05 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:37:06 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:37:54 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:37:54 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:37:54 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:37:54 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:37:54 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:37:54 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:37:54 INFO  BaseTest:232 - last index=45
+2015-06-15 13:37:54 INFO  BaseTest:232 - length=53
+2015-06-15 13:37:54 INFO  BaseTest:232 - Exception during test occurred : 3
+2015-06-15 13:37:54 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-37-54 CDT 2015
+2015-06-15 13:37:54 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:37:54 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-37-54_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:37:55 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:37:55 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:37:55 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:37:55 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:45:54 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:45:54 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:45:54 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:45:54 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:45:54 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:45:54 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:45:54 INFO  BaseTest:232 - last index=45
+2015-06-15 13:45:54 INFO  BaseTest:232 - length=53
+2015-06-15 13:45:54 INFO  BaseTest:232 - Exception during test occurred : 3
+2015-06-15 13:45:54 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-45-54 CDT 2015
+2015-06-15 13:45:54 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:45:54 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-45-54_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:45:54 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:45:54 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:45:54 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:45:54 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:48:10 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:48:10 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:48:10 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:48:10 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:48:10 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:48:10 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:48:10 INFO  BaseTest:232 - last index=45
+2015-06-15 13:48:10 INFO  BaseTest:232 - length=53
+2015-06-15 13:48:10 INFO  BaseTest:232 - Exception during test occurred : 4
+2015-06-15 13:48:10 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-48-10 CDT 2015
+2015-06-15 13:48:10 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:48:10 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-48-10_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:48:10 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:48:10 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:48:10 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:48:10 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:48:34 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:48:34 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:48:34 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:48:34 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:48:34 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:48:34 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:48:34 INFO  BaseTest:232 - last index=45
+2015-06-15 13:48:34 INFO  BaseTest:232 - length=53
+2015-06-15 13:48:34 INFO  BaseTest:232 - Quota Used = '0.1' GB.
+2015-06-15 13:48:34 INFO  BaseTest:232 - Quota Version = '0.2' GB.
+2015-06-15 13:48:34 INFO  BaseTest:232 - Quota Trash = '0.3' GB.
+2015-06-15 13:48:34 INFO  BaseTest:232 - Quota Allocated = '0.4' GB.
+2015-06-15 13:48:34 INFO  BaseTest:232 - Quota Remaining = '0.5' GB.
+2015-06-15 13:48:34 INFO  BaseTest:232 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 15 13-48-34 CDT 2015
+2015-06-15 13:48:34 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:48:34 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:50:15 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:50:15 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:50:15 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:50:15 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:50:15 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:50:15 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:50:15 INFO  BaseTest:232 - last index=45
+2015-06-15 13:50:15 INFO  BaseTest:232 - length=53
+2015-06-15 13:50:15 INFO  BaseTest:232 - Exception during test occurred : For input string: "10.0)"
+2015-06-15 13:50:15 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 13-50-15 CDT 2015
+2015-06-15 13:50:15 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 13:50:15 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_13-50-15_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 13:50:15 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 13:50:15 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 13:50:15 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:50:15 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 13:50:38 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 13:50:38 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 13:50:38 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 13:50:38 INFO  BaseTest:232 - strUsed=0.05
+2015-06-15 13:50:38 INFO  BaseTest:232 - strVersion=0.05
+2015-06-15 13:50:38 INFO  BaseTest:232 - strTrash=0.05
+2015-06-15 13:50:38 INFO  BaseTest:232 - last index=45
+2015-06-15 13:50:38 INFO  BaseTest:232 - length=53
+2015-06-15 13:50:38 INFO  BaseTest:232 - Quota Used = '0.05' GB.
+2015-06-15 13:50:38 INFO  BaseTest:232 - Quota Version = '0.05' GB.
+2015-06-15 13:50:38 INFO  BaseTest:232 - Quota Trash = '0.05' GB.
+2015-06-15 13:50:38 INFO  BaseTest:232 - Quota Allocated = '10.0' GB.
+2015-06-15 13:50:38 INFO  BaseTest:232 - Quota Remaining = '9.95' GB.
+2015-06-15 13:50:38 INFO  BaseTest:232 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 15 13-50-38 CDT 2015
+2015-06-15 13:50:38 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 13:50:38 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 14:03:18 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 14:03:18 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 14:03:18 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 14:03:18 INFO  BaseTest:232 - Start=(used/versions/trash/total) = (0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:03:18 INFO  BaseTest:232 - 1=(0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:03:18 INFO  BaseTest:232 - 2=, 0.0, 0.0, 10.0)
+2015-06-15 14:03:18 INFO  BaseTest:232 - Exception during test occurred : String index out of range: -31
+2015-06-15 14:03:18 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 14-03-18 CDT 2015
+2015-06-15 14:03:18 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 14:03:18 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_14-03-18_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 14:03:18 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 14:03:18 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 14:03:18 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 14:03:18 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 14:04:17 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 14:04:17 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 14:04:17 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 14:04:17 INFO  BaseTest:232 - Start=(used/versions/trash/total) = (0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:04:17 INFO  BaseTest:232 - 1=0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:04:17 INFO  BaseTest:232 - 2=, 0.0, 0.0, 10.0)
+2015-06-15 14:04:17 INFO  BaseTest:232 - Exception during test occurred : String index out of range: -31
+2015-06-15 14:04:17 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 14-04-17 CDT 2015
+2015-06-15 14:04:17 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 14:04:17 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_14-04-17_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 14:04:17 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 14:04:17 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 14:04:17 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 14:04:17 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 14:06:18 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 14:06:18 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 14:06:18 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 14:06:18 INFO  BaseTest:232 - Start=(used/versions/trash/total) = (0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:06:18 INFO  BaseTest:232 - 1=0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:06:18 INFO  BaseTest:232 - 2= 0.0, 0.0, 10.0)
+2015-06-15 14:06:18 INFO  BaseTest:232 - 3= 0.0, 10.0)
+2015-06-15 14:06:18 INFO  BaseTest:232 - Exception during test occurred : String index out of range: -27
+2015-06-15 14:06:18 INFO  BaseTest:232 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 14-06-18 CDT 2015
+2015-06-15 14:06:18 INFO  BaseTest:232 - Generating screenshot for failed test: 
+2015-06-15 14:06:18 INFO  BaseTest:232 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_14-06-18_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 14:06:19 INFO  BaseTest:232 - Saved screenshot for failed test
+2015-06-15 14:06:19 INFO  BaseTest:232 - Now attaching to TestNG Report
+2015-06-15 14:06:19 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 14:06:19 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 14:06:50 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 14:06:50 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 14:06:50 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 14:06:50 INFO  BaseTest:232 - Start=(used/versions/trash/total) = (0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:06:50 INFO  BaseTest:232 - 1=0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:06:50 INFO  BaseTest:232 - 2= 0.0, 0.0, 10.0)
+2015-06-15 14:06:50 INFO  BaseTest:232 - 3= 0.0, 10.0)
+2015-06-15 14:06:50 INFO  BaseTest:232 - 4=, 10.0)
+2015-06-15 14:06:50 INFO  BaseTest:232 - Quota Used = '0.05' GB.
+2015-06-15 14:06:50 INFO  BaseTest:232 - Quota Version = '0.0' GB.
+2015-06-15 14:06:50 INFO  BaseTest:232 - Quota Trash = '0.0' GB.
+2015-06-15 14:06:50 INFO  BaseTest:232 - Quota Allocated = '10.0' GB.
+2015-06-15 14:06:50 INFO  BaseTest:232 - Quota Remaining = '9.95' GB.
+2015-06-15 14:06:50 INFO  BaseTest:232 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 15 14-06-50 CDT 2015
+2015-06-15 14:06:50 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 14:06:50 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 14:08:27 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 14:08:27 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 14:08:27 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 14:08:27 INFO  BaseTest:232 - Start=(used/versions/trash/total) = (0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:08:27 INFO  BaseTest:232 - 1=0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:08:27 INFO  BaseTest:232 - 2= 0.0, 0.0, 10.0)
+2015-06-15 14:08:27 INFO  BaseTest:232 - 3= 0.0, 10.0)
+2015-06-15 14:08:27 INFO  BaseTest:232 - 4= 10.0)
+2015-06-15 14:08:27 INFO  BaseTest:232 - Quota Used = '0.05' GB.
+2015-06-15 14:08:27 INFO  BaseTest:232 - Quota Version = '0.0' GB.
+2015-06-15 14:08:27 INFO  BaseTest:232 - Quota Trash = '0.0' GB.
+2015-06-15 14:08:27 INFO  BaseTest:232 - Quota Allocated = '10.0' GB.
+2015-06-15 14:08:27 INFO  BaseTest:232 - Quota Remaining = '9.95' GB.
+2015-06-15 14:08:27 INFO  BaseTest:232 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 15 14-08-27 CDT 2015
+2015-06-15 14:08:27 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 14:08:27 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 14:10:45 INFO  BaseTest:232 - ***** Site Under Test: DM_USQA2
+2015-06-15 14:10:45 INFO  BaseTest:232 - ***** User Running Test: rholm
+2015-06-15 14:10:45 INFO  BaseTest:232 - Starting Quota_Info_Test
+2015-06-15 14:10:45 INFO  BaseTest:232 - Found quota info in log: (used/versions/trash/total) = (0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:10:45 INFO  BaseTest:232 - Quota Used = '0.05' GB.
+2015-06-15 14:10:45 INFO  BaseTest:232 - Quota Version = '0.0' GB.
+2015-06-15 14:10:45 INFO  BaseTest:232 - Quota Trash = '0.0' GB.
+2015-06-15 14:10:45 INFO  BaseTest:232 - Quota Allocated = '10.0' GB.
+2015-06-15 14:10:45 INFO  BaseTest:232 - Quota Remaining = '9.95' GB.
+2015-06-15 14:10:45 INFO  BaseTest:232 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 15 14-10-45 CDT 2015
+2015-06-15 14:10:45 INFO  BaseTest:232 - ***** Tests have Finished 
+2015-06-15 14:10:45 INFO  BaseTest:232 - ***** Suite has Finished
+2015-06-15 14:22:34 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 14:22:34 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 14:22:34 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-15 14:22:34 INFO  BaseTest:231 - Exception during test occurred : C:\Users\rholm\AppData\Local\Sharp\.cpo-drive\logs\nxdrive.log (The system cannot find the file specified)
+2015-06-15 14:22:34 INFO  BaseTest:231 - ***** TEST FAILED: Quota_Info_Test at Mon Jun 15 14-22-34 CDT 2015
+2015-06-15 14:22:34 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-15 14:22:34 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_14-22-34_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 14:22:34 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-15 14:22:34 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-15 14:22:34 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 14:22:35 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-15 14:25:29 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 14:25:29 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 14:25:29 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-15 14:25:29 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:25:29 INFO  BaseTest:231 - Quota Used = '0.05' GB.
+2015-06-15 14:25:29 INFO  BaseTest:231 - Quota Version = '0.0' GB.
+2015-06-15 14:25:29 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-15 14:25:29 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-15 14:25:29 INFO  BaseTest:231 - Quota Remaining = '9.95' GB.
+2015-06-15 14:25:29 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 15 14-25-29 CDT 2015
+2015-06-15 14:25:29 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 14:25:29 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-15 14:42:30 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 14:42:30 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 14:42:30 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-15 14:42:30 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.05, 0.0, 0.0, 10.0)
+2015-06-15 14:42:30 INFO  BaseTest:231 - Quota Used = '0.05' GB.
+2015-06-15 14:42:30 INFO  BaseTest:231 - Quota Version = '0.0' GB.
+2015-06-15 14:42:30 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-15 14:42:30 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-15 14:42:30 INFO  BaseTest:231 - Quota Remaining = '9.95' GB.
+2015-06-15 14:42:30 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 15 14-42-30 CDT 2015
+2015-06-15 14:42:30 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-15 14:42:30 INFO  BaseTest:231 - Last quota 2015-06-15 14:42:10,734
+2015-06-15 14:42:30 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Mon Jun 15 14-42-30 CDT 2015
+2015-06-15 14:42:30 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 14:42:30 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-15 15:10:05 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 15:10:05 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 15:10:05 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-15 15:10:05 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-15 15:10:34 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_menu_open_cpofolder.png in S(0)[0,0 1920x1080]
+2015-06-15 15:10:34 INFO  BaseTest:231 - ***** TEST FAILED: Open_Folder_Test at Mon Jun 15 15-10-34 CDT 2015
+2015-06-15 15:10:34 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-15 15:10:34 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_15-10-34_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 15:10:34 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-15 15:10:34 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-15 15:10:34 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-15 15:13:08 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 15:13:08 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 15:13:08 INFO  BaseTest:231 - Starting Launch_DS_Test
+2015-06-15 15:13:08 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 15:13:08 INFO  BaseTest:231 - DS is NOT running, attempting to start it.
+2015-06-15 15:13:08 INFO  BaseTest:231 - Cannot run program "C:\Program": CreateProcess error=2, The system cannot find the file specified
+2015-06-15 15:13:08 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 15:13:08 INFO  BaseTest:231 - Tried to launch DS and failed.
+2015-06-15 15:13:08 INFO  BaseTest:231 - ***** TEST PASSED: Launch_DS_Test at Mon Jun 15 15-13-08 CDT 2015
+2015-06-15 15:13:08 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-15 15:13:08 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-15 15:16:35 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 15:16:35 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 15:16:35 INFO  BaseTest:231 - Starting Launch_DS_Test
+2015-06-15 15:16:35 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 15:16:35 INFO  BaseTest:231 - DS is NOT running, attempting to start it.
+2015-06-15 15:16:35 INFO  BaseTest:231 - Cannot run program "C:\Program": CreateProcess error=2, The system cannot find the file specified
+2015-06-15 15:16:35 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 15:16:35 INFO  BaseTest:231 - Tried to launch DS and failed.
+2015-06-15 15:16:35 INFO  BaseTest:231 - Nope!  DS is not ready.
+2015-06-15 15:16:35 INFO  BaseTest:231 - ***** TEST PASSED: Launch_DS_Test at Mon Jun 15 15-16-35 CDT 2015
+2015-06-15 15:16:35 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-15 15:16:35 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-15 15:18:57 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 15:18:57 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 15:18:57 INFO  BaseTest:231 - Starting Launch_DS_Test
+2015-06-15 15:18:57 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 15:18:57 INFO  BaseTest:231 - DS is NOT running, attempting to start it.
+2015-06-15 15:18:57 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 15:18:57 INFO  BaseTest:231 - Found Task Info: clouddrivew.exe               7868 Console                    1      9,800 K
+2015-06-15 15:19:07 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 15:19:07 INFO  BaseTest:231 - Yep!  DS is ready.
+2015-06-15 15:19:07 INFO  BaseTest:231 - ***** TEST PASSED: Launch_DS_Test at Mon Jun 15 15-19-07 CDT 2015
+2015-06-15 15:19:07 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 15:19:08 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-15 15:31:50 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 15:31:50 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 15:31:50 INFO  BaseTest:231 - Starting Launch_DS_Test
+2015-06-15 15:31:50 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 15:31:50 INFO  BaseTest:231 - Found Task Info: clouddrivew.exe               7868 Console                    1     62,116 K
+2015-06-15 15:31:50 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 15:31:50 INFO  BaseTest:231 - DS is synced and ready to test.
+2015-06-15 15:31:50 INFO  BaseTest:231 - Yep!  DS is ready.
+2015-06-15 15:31:50 INFO  BaseTest:231 - ***** TEST PASSED: Launch_DS_Test at Mon Jun 15 15-31-50 CDT 2015
+2015-06-15 15:31:50 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-15 15:31:50 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-15 15:32:19 INFO  BaseTest:231 - ***** TEST FAILED: DSDM_Test at Mon Jun 15 15-32-19 CDT 2015
+2015-06-15 15:32:19 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-15 15:32:19 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_15_15-32-19_CDT_2015_DM_USQA2-Firefox.png
+2015-06-15 15:32:20 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-15 15:32:20 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-15 15:32:20 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 15:32:20 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-15 15:39:05 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 15:39:05 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 15:39:05 INFO  BaseTest:231 - Starting Launch_DS_Test
+2015-06-15 15:39:05 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 15:39:05 INFO  BaseTest:231 - Found Task Info: clouddrivew.exe               7868 Console                    1     62,152 K
+2015-06-15 15:39:05 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 15:39:05 INFO  BaseTest:231 - DS is synced and ready to test.
+2015-06-15 15:39:05 INFO  BaseTest:231 - Yep!  DS is ready.
+2015-06-15 15:39:05 INFO  BaseTest:231 - ***** TEST PASSED: Launch_DS_Test at Mon Jun 15 15-39-05 CDT 2015
+2015-06-15 15:39:05 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-15 15:39:05 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-15 15:39:23 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 15:39:26 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Mon Jun 15 15-39-26 CDT 2015
+2015-06-15 15:39:26 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 15:39:26 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-15 15:39:52 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 15:39:52 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 15:39:52 INFO  BaseTest:231 - Starting Launch_DS_Test
+2015-06-15 15:39:52 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 15:39:52 INFO  BaseTest:231 - Found Task Info: clouddrivew.exe               7868 Console                    1     81,268 K
+2015-06-15 15:39:53 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 15:39:53 INFO  BaseTest:231 - DS is synced and ready to test.
+2015-06-15 15:39:53 INFO  BaseTest:231 - Yep!  DS is ready.
+2015-06-15 15:39:53 INFO  BaseTest:231 - ***** TEST PASSED: Launch_DS_Test at Mon Jun 15 15-39-53 CDT 2015
+2015-06-15 15:39:53 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-15 15:39:53 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-15 15:40:10 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 15:40:13 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Mon Jun 15 15-40-13 CDT 2015
+2015-06-15 15:40:13 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 15:40:13 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-15 16:15:48 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 16:15:48 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 16:15:48 INFO  BaseTest:231 - Starting Launch_DS_Test
+2015-06-15 16:15:48 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 16:15:48 INFO  BaseTest:231 - Found Task Info: clouddrivew.exe               7868 Console                    1     82,792 K
+2015-06-15 16:15:49 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 16:15:49 INFO  BaseTest:231 - DS is synced and ready to test.
+2015-06-15 16:15:49 INFO  BaseTest:231 - Yep!  DS is ready.
+2015-06-15 16:15:49 INFO  BaseTest:231 - ***** TEST PASSED: Launch_DS_Test at Mon Jun 15 16-15-49 CDT 2015
+2015-06-15 16:15:49 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-15 16:15:49 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-15 16:16:07 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 16:16:15 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Mon Jun 15 16-16-15 CDT 2015
+2015-06-15 16:16:15 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 16:16:15 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-15 16:23:15 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 16:23:15 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 16:23:15 INFO  BaseTest:231 - Starting Launch_DS_Test
+2015-06-15 16:23:15 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 16:23:15 INFO  BaseTest:231 - Found Task Info: clouddrivew.exe               7868 Console                    1     82,524 K
+2015-06-15 16:23:15 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 16:23:15 INFO  BaseTest:231 - DS is synced and ready to test.
+2015-06-15 16:23:15 INFO  BaseTest:231 - Yep!  DS is ready.
+2015-06-15 16:23:15 INFO  BaseTest:231 - ***** TEST PASSED: Launch_DS_Test at Mon Jun 15 16-23-15 CDT 2015
+2015-06-15 16:23:15 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-15 16:23:15 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-15 16:23:33 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 16:23:40 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Mon Jun 15 16-23-40 CDT 2015
+2015-06-15 16:23:40 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 16:23:41 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-15 16:24:27 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 16:24:27 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 16:24:27 INFO  BaseTest:231 - Starting Launch_DS_Test
+2015-06-15 16:24:27 INFO  BaseTest:231 - Checking to see if clouddrivew.exe is running.
+2015-06-15 16:24:27 INFO  BaseTest:231 - Found Task Info: clouddrivew.exe               7868 Console                    1     83,032 K
+2015-06-15 16:24:28 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 16:24:28 INFO  BaseTest:231 - DS is synced and ready to test.
+2015-06-15 16:24:28 INFO  BaseTest:231 - Yep!  DS is ready.
+2015-06-15 16:24:28 INFO  BaseTest:231 - ***** TEST PASSED: Launch_DS_Test at Mon Jun 15 16-24-28 CDT 2015
+2015-06-15 16:24:28 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-15 16:24:28 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-15 16:24:45 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 16:24:48 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Mon Jun 15 16-24-48 CDT 2015
+2015-06-15 16:24:48 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 16:24:48 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-15 16:27:09 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-15 16:27:09 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-15 16:27:09 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-15 16:27:09 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-15 16:27:26 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-15 16:27:29 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Mon Jun 15 16-27-29 CDT 2015
+2015-06-15 16:27:29 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-15 16:27:29 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-16 13:36:37 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-16 13:36:37 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-16 13:36:37 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-16 13:36:37 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-16 13:36:59 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-16 13:37:05 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Tue Jun 16 13-37-05 CDT 2015
+2015-06-16 13:37:05 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-16 13:37:05 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-16 13:38:04 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-16 13:38:04 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-16 13:38:04 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-16 13:38:04 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-16 13:38:08 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-16 13:38:11 INFO  BaseTest:231 - Exception during test occurred : Region: doFind: Image not loadable: windows7_folder_close
+2015-06-16 13:38:11 INFO  BaseTest:231 - ***** TEST FAILED: Open_Folder_Test at Tue Jun 16 13-38-11 CDT 2015
+2015-06-16 13:38:11 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-16 13:38:11 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Tue_Jun_16_13-38-11_CDT_2015_DM_USQA2-Firefox.png
+2015-06-16 13:38:11 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-16 13:38:11 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-16 13:38:11 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-16 13:38:15 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-16 13:38:22 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_general.png in S(0)[0,0 1920x1080]
+2015-06-16 13:38:22 INFO  BaseTest:231 - ***** TEST FAILED: Settings_Test at Tue Jun 16 13-38-22 CDT 2015
+2015-06-16 13:38:22 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-16 13:38:22 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Tue_Jun_16_13-38-22_CDT_2015_DM_USQA2-Firefox.png
+2015-06-16 13:38:23 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-16 13:38:23 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-16 13:38:23 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-16 13:38:26 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_general.png in S(0)[0,0 1920x1080]
+2015-06-16 13:38:26 INFO  BaseTest:231 - ***** TEST FAILED: General_Tab_Test at Tue Jun 16 13-38-26 CDT 2015
+2015-06-16 13:38:26 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-16 13:38:26 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Tue_Jun_16_13-38-26_CDT_2015_DM_USQA2-Firefox.png
+2015-06-16 13:38:26 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-16 13:38:26 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-16 13:38:26 INFO  BaseTest:231 - Starting Disconnect_User_Test
+2015-06-16 13:38:30 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_accounts.png in S(0)[0,0 1920x1080]
+2015-06-16 13:38:30 INFO  BaseTest:231 - ***** TEST FAILED: Disconnect_User_Test at Tue Jun 16 13-38-30 CDT 2015
+2015-06-16 13:38:30 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-16 13:38:30 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Tue_Jun_16_13-38-30_CDT_2015_DM_USQA2-Firefox.png
+2015-06-16 13:38:30 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-16 13:38:30 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-16 13:38:30 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-16 13:38:30 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.05, 0.01, 0.0, 10.0)
+2015-06-16 13:38:30 INFO  BaseTest:231 - Quota Used = '0.05' GB.
+2015-06-16 13:38:30 INFO  BaseTest:231 - Quota Version = '0.01' GB.
+2015-06-16 13:38:30 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-16 13:38:30 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-16 13:38:30 INFO  BaseTest:231 - Quota Remaining = '9.95' GB.
+2015-06-16 13:38:30 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Tue Jun 16 13-38-30 CDT 2015
+2015-06-16 13:38:30 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-16 13:38:30 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-16 13:38:09,217
+2015-06-16 13:38:30 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Tue Jun 16 13-38-30 CDT 2015
+2015-06-16 13:38:30 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-16 13:38:31 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-16 13:38:31 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-16 13:45:53 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-16 13:45:53 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-16 13:45:53 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-16 13:45:53 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-16 13:45:58 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-16 13:45:59 INFO  BaseTest:231 - Exception during test occurred : Region: doFind: Image not loadable: windows7_folder_close
+2015-06-16 13:46:00 INFO  BaseTest:231 - ***** TEST FAILED: Open_Folder_Test at Tue Jun 16 13-46-00 CDT 2015
+2015-06-16 13:46:00 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-16 13:46:00 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Tue_Jun_16_13-46-00_CDT_2015_DM_USQA2-Firefox.png
+2015-06-16 13:46:00 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-16 13:46:00 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-16 13:46:00 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-16 13:46:03 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-16 13:46:11 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_general.png in S(0)[0,0 1920x1080]
+2015-06-16 13:46:11 INFO  BaseTest:231 - ***** TEST FAILED: Settings_Test at Tue Jun 16 13-46-11 CDT 2015
+2015-06-16 13:46:11 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-16 13:46:11 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Tue_Jun_16_13-46-11_CDT_2015_DM_USQA2-Firefox.png
+2015-06-16 13:46:11 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-16 13:46:11 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-16 13:46:11 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-16 13:46:15 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_general.png in S(0)[0,0 1920x1080]
+2015-06-16 13:46:15 INFO  BaseTest:231 - ***** TEST FAILED: General_Tab_Test at Tue Jun 16 13-46-15 CDT 2015
+2015-06-16 13:46:15 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-16 13:46:15 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Tue_Jun_16_13-46-15_CDT_2015_DM_USQA2-Firefox.png
+2015-06-16 13:46:15 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-16 13:46:15 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-16 13:46:15 INFO  BaseTest:231 - Starting Disconnect_User_Test
+2015-06-16 13:46:18 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_accounts.png in S(0)[0,0 1920x1080]
+2015-06-16 13:46:18 INFO  BaseTest:231 - ***** TEST FAILED: Disconnect_User_Test at Tue Jun 16 13-46-18 CDT 2015
+2015-06-16 13:46:18 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-16 13:46:18 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Tue_Jun_16_13-46-18_CDT_2015_DM_USQA2-Firefox.png
+2015-06-16 13:46:18 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-16 13:46:18 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-16 13:46:18 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-16 13:46:18 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.05, 0.01, 0.0, 10.0)
+2015-06-16 13:46:18 INFO  BaseTest:231 - Quota Used = '0.05' GB.
+2015-06-16 13:46:18 INFO  BaseTest:231 - Quota Version = '0.01' GB.
+2015-06-16 13:46:18 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-16 13:46:18 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-16 13:46:18 INFO  BaseTest:231 - Quota Remaining = '9.95' GB.
+2015-06-16 13:46:18 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Tue Jun 16 13-46-18 CDT 2015
+2015-06-16 13:46:18 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-16 13:46:18 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-16 13:45:48,811
+2015-06-16 13:46:18 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Tue Jun 16 13-46-18 CDT 2015
+2015-06-16 13:46:18 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-16 13:46:20 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-16 13:46:20 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-17 09:06:32 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-17 09:06:32 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-17 09:06:32 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-17 09:06:32 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-17 09:06:36 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 09:06:38 INFO  BaseTest:231 - Exception during test occurred : Region: doFind: Image not loadable: windows7_folder_close
+2015-06-17 09:06:38 INFO  BaseTest:231 - ***** TEST FAILED: Open_Folder_Test at Wed Jun 17 09-06-38 CDT 2015
+2015-06-17 09:06:38 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-17 09:06:38 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Wed_Jun_17_09-06-38_CDT_2015_DM_USQA2-Firefox.png
+2015-06-17 09:06:39 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-17 09:06:39 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-17 09:06:39 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-17 09:06:42 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 09:06:50 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_general.png in S(0)[0,0 1920x1080]
+2015-06-17 09:06:50 INFO  BaseTest:231 - ***** TEST FAILED: Settings_Test at Wed Jun 17 09-06-50 CDT 2015
+2015-06-17 09:06:50 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-17 09:06:50 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Wed_Jun_17_09-06-50_CDT_2015_DM_USQA2-Firefox.png
+2015-06-17 09:06:50 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-17 09:06:50 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-17 09:06:50 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-17 09:06:53 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_general.png in S(0)[0,0 1920x1080]
+2015-06-17 09:06:53 INFO  BaseTest:231 - ***** TEST FAILED: General_Tab_Test at Wed Jun 17 09-06-53 CDT 2015
+2015-06-17 09:06:53 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-17 09:06:53 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Wed_Jun_17_09-06-53_CDT_2015_DM_USQA2-Firefox.png
+2015-06-17 09:06:53 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-17 09:06:53 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-17 09:06:53 INFO  BaseTest:231 - Starting Disconnect_User_Test
+2015-06-17 09:06:56 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_accounts.png in S(0)[0,0 1920x1080]
+2015-06-17 09:06:56 INFO  BaseTest:231 - ***** TEST FAILED: Disconnect_User_Test at Wed Jun 17 09-06-56 CDT 2015
+2015-06-17 09:06:56 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-17 09:06:56 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Wed_Jun_17_09-06-56_CDT_2015_DM_USQA2-Firefox.png
+2015-06-17 09:06:56 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-17 09:06:56 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-17 09:06:56 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-17 09:06:56 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.05, 0.01, 0.0, 10.0)
+2015-06-17 09:06:56 INFO  BaseTest:231 - Quota Used = '0.05' GB.
+2015-06-17 09:06:56 INFO  BaseTest:231 - Quota Version = '0.01' GB.
+2015-06-17 09:06:56 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-17 09:06:56 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-17 09:06:56 INFO  BaseTest:231 - Quota Remaining = '9.95' GB.
+2015-06-17 09:06:56 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Wed Jun 17 09-06-56 CDT 2015
+2015-06-17 09:06:56 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-17 09:06:56 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-17 09:06:43,365
+2015-06-17 09:06:56 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Wed Jun 17 09-06-56 CDT 2015
+2015-06-17 09:06:56 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-17 09:06:58 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-17 09:06:58 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-17 10:08:39 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-17 10:08:39 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-17 10:08:39 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-17 10:08:39 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-17 10:08:44 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 10:08:45 INFO  BaseTest:231 - Exception during test occurred : Region: doFind: Image not loadable: windows7_folder_close
+2015-06-17 10:08:45 INFO  BaseTest:231 - ***** TEST FAILED: Open_Folder_Test at Wed Jun 17 10-08-45 CDT 2015
+2015-06-17 10:08:45 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-17 10:08:45 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Wed_Jun_17_10-08-45_CDT_2015_DM_USQA2-Firefox.png
+2015-06-17 10:08:46 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-17 10:08:46 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-17 10:08:46 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-17 10:08:49 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 10:08:59 INFO  BaseTest:231 - ***** TEST PASSED: Settings_Test at Wed Jun 17 10-08-59 CDT 2015
+2015-06-17 10:08:59 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-17 10:09:00 INFO  BaseTest:231 - Exception during test occurred : Region: doFind: Image not loadable: ds2_settings_general_start_on_boot_checked.png
+2015-06-17 10:09:00 INFO  BaseTest:231 - ***** TEST FAILED: General_Tab_Test at Wed Jun 17 10-09-00 CDT 2015
+2015-06-17 10:09:00 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-17 10:09:00 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Wed_Jun_17_10-09-00_CDT_2015_DM_USQA2-Firefox.png
+2015-06-17 10:09:00 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-17 10:09:00 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-17 10:09:00 INFO  BaseTest:231 - Starting Disconnect_User_Test
+2015-06-17 10:09:01 INFO  BaseTest:231 - Exception during test occurred : Region: doFind: Image not loadable: ds2_settings_accounts_disconnect.png
+2015-06-17 10:09:01 INFO  BaseTest:231 - ***** TEST FAILED: Disconnect_User_Test at Wed Jun 17 10-09-01 CDT 2015
+2015-06-17 10:09:01 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-17 10:09:01 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Wed_Jun_17_10-09-01_CDT_2015_DM_USQA2-Firefox.png
+2015-06-17 10:09:01 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-17 10:09:01 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-17 10:09:01 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-17 10:09:01 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.05, 0.01, 0.0, 10.0)
+2015-06-17 10:09:01 INFO  BaseTest:231 - Quota Used = '0.05' GB.
+2015-06-17 10:09:01 INFO  BaseTest:231 - Quota Version = '0.01' GB.
+2015-06-17 10:09:01 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-17 10:09:01 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-17 10:09:01 INFO  BaseTest:231 - Quota Remaining = '9.95' GB.
+2015-06-17 10:09:01 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Wed Jun 17 10-09-01 CDT 2015
+2015-06-17 10:09:01 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-17 10:09:01 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-17 10:08:51,898
+2015-06-17 10:09:01 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Wed Jun 17 10-09-01 CDT 2015
+2015-06-17 10:09:01 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-17 10:09:02 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-17 10:09:02 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-17 10:50:00 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-17 10:50:00 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-17 10:50:00 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-17 10:50:00 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-17 10:50:04 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 10:50:08 INFO  BaseTest:231 - ***** TEST PASSED: Open_Folder_Test at Wed Jun 17 10-50-08 CDT 2015
+2015-06-17 10:50:08 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-17 10:50:11 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 10:50:21 INFO  BaseTest:231 - ***** TEST PASSED: Settings_Test at Wed Jun 17 10-50-21 CDT 2015
+2015-06-17 10:50:21 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-17 10:50:28 INFO  BaseTest:231 - ***** TEST PASSED: General_Tab_Test at Wed Jun 17 10-50-28 CDT 2015
+2015-06-17 10:50:28 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-17 10:50:28 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.0, 0.0, 0.0, 10.0)
+2015-06-17 10:50:28 INFO  BaseTest:231 - Quota Used = '0.0' GB.
+2015-06-17 10:50:28 INFO  BaseTest:231 - Quota Version = '0.0' GB.
+2015-06-17 10:50:28 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-17 10:50:28 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-17 10:50:28 INFO  BaseTest:231 - Quota Remaining = '10.0' GB.
+2015-06-17 10:50:28 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Wed Jun 17 10-50-28 CDT 2015
+2015-06-17 10:50:28 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-17 10:50:28 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-17 10:50:20,407
+2015-06-17 10:50:28 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Wed Jun 17 10-50-28 CDT 2015
+2015-06-17 10:50:28 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-17 10:50:29 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-17 10:50:29 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-17 11:10:10 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-17 11:10:10 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-17 11:10:10 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-17 11:10:10 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-17 11:10:14 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 11:10:17 INFO  BaseTest:231 - ***** TEST PASSED: Open_Folder_Test at Wed Jun 17 11-10-17 CDT 2015
+2015-06-17 11:10:17 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-17 11:10:21 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 11:10:31 INFO  BaseTest:231 - ***** TEST PASSED: Settings_Test at Wed Jun 17 11-10-31 CDT 2015
+2015-06-17 11:10:31 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-17 11:10:39 INFO  BaseTest:231 - ***** TEST PASSED: General_Tab_Test at Wed Jun 17 11-10-39 CDT 2015
+2015-06-17 11:10:39 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-17 11:10:39 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.0, 0.0, 0.0, 10.0)
+2015-06-17 11:10:39 INFO  BaseTest:231 - Quota Used = '0.0' GB.
+2015-06-17 11:10:39 INFO  BaseTest:231 - Quota Version = '0.0' GB.
+2015-06-17 11:10:39 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-17 11:10:39 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-17 11:10:39 INFO  BaseTest:231 - Quota Remaining = '10.0' GB.
+2015-06-17 11:10:39 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Wed Jun 17 11-10-39 CDT 2015
+2015-06-17 11:10:39 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-17 11:10:39 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-17 11:10:13,380
+2015-06-17 11:10:39 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Wed Jun 17 11-10-39 CDT 2015
+2015-06-17 11:10:39 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-17 11:10:40 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-17 11:10:40 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-17 11:23:10 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-17 11:23:10 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-17 11:23:10 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-17 11:23:10 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-17 11:23:31 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 11:23:36 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Wed Jun 17 11-23-36 CDT 2015
+2015-06-17 11:23:36 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-17 11:23:36 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-17 11:23:40 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 11:23:44 INFO  BaseTest:231 - ***** TEST PASSED: Open_Folder_Test at Wed Jun 17 11-23-44 CDT 2015
+2015-06-17 11:23:44 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-17 11:23:47 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-17 11:23:57 INFO  BaseTest:231 - ***** TEST PASSED: Settings_Test at Wed Jun 17 11-23-57 CDT 2015
+2015-06-17 11:23:57 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-17 11:24:05 INFO  BaseTest:231 - ***** TEST PASSED: General_Tab_Test at Wed Jun 17 11-24-05 CDT 2015
+2015-06-17 11:24:05 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-17 11:24:05 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.0, 0.0, 0.0, 10.0)
+2015-06-17 11:24:05 INFO  BaseTest:231 - Quota Used = '0.0' GB.
+2015-06-17 11:24:05 INFO  BaseTest:231 - Quota Version = '0.0' GB.
+2015-06-17 11:24:05 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-17 11:24:05 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-17 11:24:05 INFO  BaseTest:231 - Quota Remaining = '10.0' GB.
+2015-06-17 11:24:05 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Wed Jun 17 11-24-05 CDT 2015
+2015-06-17 11:24:05 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-17 11:24:05 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-17 11:23:58,947
+2015-06-17 11:24:05 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Wed Jun 17 11-24-05 CDT 2015
+2015-06-17 11:24:05 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-17 11:24:06 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-17 11:24:06 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-22 09:27:24 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-22 09:27:24 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-22 09:27:24 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-22 09:27:24 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-22 09:27:45 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 09:27:50 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Mon Jun 22 09-27-50 CDT 2015
+2015-06-22 09:27:50 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-22 09:27:50 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-22 09:27:55 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 09:27:58 INFO  BaseTest:231 - ***** TEST PASSED: Open_Folder_Test at Mon Jun 22 09-27-58 CDT 2015
+2015-06-22 09:27:58 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-22 09:28:01 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 09:28:11 INFO  BaseTest:231 - ***** TEST PASSED: Settings_Test at Mon Jun 22 09-28-11 CDT 2015
+2015-06-22 09:28:11 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-22 09:28:16 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_general_start_on_boot_unchecked.png in S(0)[0,0 1920x1080]
+2015-06-22 09:28:16 INFO  BaseTest:231 - ***** TEST FAILED: General_Tab_Test at Mon Jun 22 09-28-16 CDT 2015
+2015-06-22 09:28:16 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-22 09:28:16 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_22_09-28-16_CDT_2015_DM_USQA2-Firefox.png
+2015-06-22 09:28:16 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-22 09:28:16 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-22 09:28:16 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-22 09:28:16 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.0, 0.0, 0.0, 10.0)
+2015-06-22 09:28:16 INFO  BaseTest:231 - Quota Used = '0.0' GB.
+2015-06-22 09:28:16 INFO  BaseTest:231 - Quota Version = '0.0' GB.
+2015-06-22 09:28:16 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-22 09:28:16 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-22 09:28:16 INFO  BaseTest:231 - Quota Remaining = '10.0' GB.
+2015-06-22 09:28:16 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 22 09-28-16 CDT 2015
+2015-06-22 09:28:16 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-22 09:28:16 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-22 09:28:12,509
+2015-06-22 09:28:16 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Mon Jun 22 09-28-16 CDT 2015
+2015-06-22 09:28:16 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-22 09:28:18 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-22 09:28:18 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-22 09:39:47 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-22 09:39:47 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-22 09:39:47 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-22 09:39:47 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-22 09:40:08 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 09:40:13 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Mon Jun 22 09-40-13 CDT 2015
+2015-06-22 09:40:13 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-22 09:40:13 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-22 09:40:17 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 09:40:21 INFO  BaseTest:231 - ***** TEST PASSED: Open_Folder_Test at Mon Jun 22 09-40-21 CDT 2015
+2015-06-22 09:40:21 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-22 09:40:24 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 09:40:34 INFO  BaseTest:231 - ***** TEST PASSED: Settings_Test at Mon Jun 22 09-40-34 CDT 2015
+2015-06-22 09:40:34 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-22 09:40:39 INFO  BaseTest:231 - Exception during test occurred : can not find ds2_settings_general_start_on_boot_unchecked.png in S(0)[0,0 1920x1080]
+2015-06-22 09:40:39 INFO  BaseTest:231 - ***** TEST FAILED: General_Tab_Test at Mon Jun 22 09-40-39 CDT 2015
+2015-06-22 09:40:39 INFO  BaseTest:231 - Generating screenshot for failed test: 
+2015-06-22 09:40:39 INFO  BaseTest:231 - Screenshot Path test-output\screenshots\FAIL_Mon_Jun_22_09-40-39_CDT_2015_DM_USQA2-Firefox.png
+2015-06-22 09:40:39 INFO  BaseTest:231 - Saved screenshot for failed test
+2015-06-22 09:40:39 INFO  BaseTest:231 - Now attaching to TestNG Report
+2015-06-22 09:40:39 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-22 09:40:39 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.0, 0.0, 0.0, 10.0)
+2015-06-22 09:40:39 INFO  BaseTest:231 - Quota Used = '0.0' GB.
+2015-06-22 09:40:39 INFO  BaseTest:231 - Quota Version = '0.0' GB.
+2015-06-22 09:40:39 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-22 09:40:39 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-22 09:40:39 INFO  BaseTest:231 - Quota Remaining = '10.0' GB.
+2015-06-22 09:40:39 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 22 09-40-39 CDT 2015
+2015-06-22 09:40:39 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-22 09:40:39 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-22 09:40:27,285
+2015-06-22 09:40:39 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Mon Jun 22 09-40-39 CDT 2015
+2015-06-22 09:40:39 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-22 09:40:40 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-22 09:40:40 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-22 09:45:16 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-22 09:45:16 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-22 09:45:16 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-22 09:45:16 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-22 09:45:37 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 09:45:42 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Mon Jun 22 09-45-42 CDT 2015
+2015-06-22 09:45:42 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-22 09:45:42 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-22 09:45:46 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 09:45:50 INFO  BaseTest:231 - ***** TEST PASSED: Open_Folder_Test at Mon Jun 22 09-45-50 CDT 2015
+2015-06-22 09:45:50 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-22 09:45:54 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 09:46:03 INFO  BaseTest:231 - ***** TEST PASSED: Settings_Test at Mon Jun 22 09-46-03 CDT 2015
+2015-06-22 09:46:03 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-22 09:46:07 INFO  BaseTest:231 - ***** TEST PASSED: General_Tab_Test at Mon Jun 22 09-46-07 CDT 2015
+2015-06-22 09:46:07 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-22 09:46:07 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.0, 0.0, 0.0, 10.0)
+2015-06-22 09:46:07 INFO  BaseTest:231 - Quota Used = '0.0' GB.
+2015-06-22 09:46:07 INFO  BaseTest:231 - Quota Version = '0.0' GB.
+2015-06-22 09:46:07 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-22 09:46:07 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-22 09:46:07 INFO  BaseTest:231 - Quota Remaining = '10.0' GB.
+2015-06-22 09:46:07 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 22 09-46-07 CDT 2015
+2015-06-22 09:46:07 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-22 09:46:07 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-22 09:46:04,338
+2015-06-22 09:46:07 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Mon Jun 22 09-46-07 CDT 2015
+2015-06-22 09:46:07 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-22 09:46:08 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-22 09:46:08 INFO  BaseTest:231 - ***** Suite has Finished
+2015-06-22 12:49:25 INFO  BaseTest:231 - ***** Site Under Test: DM_USQA2
+2015-06-22 12:49:25 INFO  BaseTest:231 - ***** User Running Test: rholm
+2015-06-22 12:49:25 INFO  BaseTest:231 - Starting DM and DS Test
+2015-06-22 12:49:25 INFO  BaseTest:231 - ***** Starting DS and DM Test: 
+2015-06-22 12:49:47 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 12:49:58 INFO  BaseTest:231 - ***** TEST PASSED: DSDM_Test at Mon Jun 22 12-49-58 CDT 2015
+2015-06-22 12:49:58 INFO  BaseTest:231 - Starting Open_Folder_Test test
+2015-06-22 12:49:58 INFO  BaseTest:231 - ***** Starting Test: 
+2015-06-22 12:50:02 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 12:50:06 INFO  BaseTest:231 - ***** TEST PASSED: Open_Folder_Test at Mon Jun 22 12-50-06 CDT 2015
+2015-06-22 12:50:06 INFO  BaseTest:231 - Starting Settings_Test
+2015-06-22 12:50:09 INFO  BaseTest:231 - DS Icon is Online and Synced.
+2015-06-22 12:50:20 INFO  BaseTest:231 - ***** TEST PASSED: Settings_Test at Mon Jun 22 12-50-20 CDT 2015
+2015-06-22 12:50:20 INFO  BaseTest:231 - Starting General_Tab_Test
+2015-06-22 12:50:24 INFO  BaseTest:231 - ***** TEST PASSED: General_Tab_Test at Mon Jun 22 12-50-24 CDT 2015
+2015-06-22 12:50:24 INFO  BaseTest:231 - Starting Quota_Info_Test
+2015-06-22 12:50:24 INFO  BaseTest:231 - Found quota info in log: (used/versions/trash/total) = (0.0, 0.0, 0.0, 10.0)
+2015-06-22 12:50:24 INFO  BaseTest:231 - Quota Used = '0.0' GB.
+2015-06-22 12:50:24 INFO  BaseTest:231 - Quota Version = '0.0' GB.
+2015-06-22 12:50:24 INFO  BaseTest:231 - Quota Trash = '0.0' GB.
+2015-06-22 12:50:24 INFO  BaseTest:231 - Quota Allocated = '10.0' GB.
+2015-06-22 12:50:24 INFO  BaseTest:231 - Quota Remaining = '10.0' GB.
+2015-06-22 12:50:24 INFO  BaseTest:231 - ***** TEST PASSED: Quota_Info_Test at Mon Jun 22 12-50-24 CDT 2015
+2015-06-22 12:50:24 INFO  BaseTest:231 - Attempting to find Actual storage usage in the logs.
+2015-06-22 12:50:24 INFO  BaseTest:231 - Last quota entry in logs at: 2015-06-22 12:50:22,296
+2015-06-22 12:50:24 INFO  BaseTest:231 - ***** TEST PASSED: Get_Log_Time_Test at Mon Jun 22 12-50-24 CDT 2015
+2015-06-22 12:50:24 INFO  BaseTest:231 - ***** Tests have Finished 
+2015-06-22 12:50:25 INFO  BaseTest:231 - WebDriver was already closed
+2015-06-22 12:50:25 INFO  BaseTest:231 - ***** Suite has Finished

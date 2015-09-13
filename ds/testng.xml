@@ -1,0 +1,46 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BST_CPO_DS_Test" verbose="1" >
+
+	<!-- QA Basic User Names and Passwords -->
+	<parameter name="DM_QA90" value="rt9user90" />
+	<parameter name="DM_QA90_Password" value="$harp123" />	
+	<parameter name="DM_QABA" value="rt9ba01" />
+	<parameter name="DM_QABA_Password" value="$harp123" />
+	
+	<!--URL Environments -->
+	<parameter name="DM_USQA2" value="https://usqa2-dm.sharpcloudportal.com/" />
+	<parameter name="DM_DEVCPO2" value="http://devcpo2-auth.sharpb2bcloud.com/" />
+	<parameter name="DM_QA" value="https://qadm.sharpb2bcloud.com/" />
+	<parameter name="DM_DEV" value="https://devdm.sharpb2bcloud.com/" />
+	<parameter name="DM_PROD" value="https://www.sharpcloudportal.com/" />
+	<parameter name="DM_EU_DEV" value="https://devcpo.sharpcloudportal.eu/" />
+	<parameter name="DM_EU_PROD" value="https://www.sharpcloudportal.eu/" />	
+
+	<!-- Under Test Variables -->
+	<parameter name="SiteUnderTest" value="DM_USQA2" />
+	<parameter name="BrowserUnderTest" value="Firefox" />
+	<parameter name="BasicUserUnderTest" value="DM_QA90" />
+	<parameter name="AdminUserUnderTest" value="DM_QABA" />
+
+	<test name="DS - Regression Test" preserve-order="true">
+		<classes>
+			<class name="bst.cpo.automation.ds.tests.BasicUserTest">
+				<methods>
+					<!-- <include name="Launch_DS_Test"/>  -->
+					<include name="DSDM_Test"/>
+
+					<include name="Open_Folder_Test"/>
+					<include name="Settings_Test"/>
+					<include name="General_Tab_Test"/>
+					
+					<!-- <include name="Disconnect_User_Test"/> -->
+				 	 
+					<include name="Quota_Info_Test"/>
+					<include name="Get_Log_Time_Test"/>
+
+				</methods>
+			</class>
+		</classes>
+	</test>  
+</suite>

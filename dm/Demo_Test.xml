@@ -1,0 +1,53 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BST_CPO_DM_Test" verbose="1">
+
+	<!-- QA Basic User Names and Passwords -->
+	<parameter name="DM_QAUser6" value="slaqa06" />
+	<parameter name="DM_QAUser6_Password" value="test123#" />	
+	<parameter name="DM_QAAuto1" value="slaqaauto1" />
+	<parameter name="DM_QAAuto1_Password" value="test123#" />
+	<parameter name="DM_QA07" value="slaqa07" />
+	<parameter name="DM_QA07_Password" value="test123#" />
+
+	<!-- QA2 Automation users-->
+	<parameter name="DM_QA90" value="rt9User90" />
+	<parameter name="DM_QA90_Password" value="$harp123" />
+	<parameter name="DM_QA91" value="rt9user91" />
+	<parameter name="DM_QA91_Password" value="$harp123" />
+	<parameter name="DM_QABA" value="rt9ba01" />
+	<parameter name="DM_QABA_Password" value="$harp123" />
+		
+	<!--URL Environments -->
+	<parameter name="DM_QA2" value="https://usqa2-dm.sharpcloudportal.com" />
+	<parameter name="DM_DEVCPO2" value="http://devcpo2-auth.sharpb2bcloud.com/" />
+	<parameter name="DM_QA" value="https://qadm.sharpb2bcloud.com/" />
+	<parameter name="DM_DEV" value="https://devdm.sharpb2bcloud.com/" />
+	<parameter name="DM_PROD" value="https://www.sharpcloudportal.com/" />
+	<parameter name="DM_EU_DEV" value="https://devcpo.sharpcloudportal.eu/" />
+	<parameter name="DM_EU_PROD" value="https://www.sharpcloudportal.eu/" />	
+
+	<!-- Under Test Variables -->
+	<parameter name="SiteUnderTest" value="DM_QA2" />
+	<parameter name="BrowserUnderTest" value="Firefox" />
+	<parameter name="BasicUserUnderTest" value="DM_QA90" />
+	<parameter name="AdminUserUnderTest" value="DM_QABA" />
+	
+	<!-- Specify tests to run here -->
+	<test name="DM - Demo" preserve-order="true">
+		<classes>
+			<class name="bst.cpo.automation.dm.tests.Demo">
+				<methods>
+					<include name="Login_User"/>
+					<include name="Settings_Admin_Fail"/>
+					<include name="User_Search"/>
+					<include name="Add_File"/>
+					<include name="Select_File_Copy"/>
+					<include name="Add_File_Note"/>
+					<include name="Delete_File_Cancel"/>
+					<include name="Help_File"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

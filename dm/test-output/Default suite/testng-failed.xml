@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="bst.cpo.automation.dm.tests.RussTest">
+        <methods>
+          <include name="Login_Test"/>
+          <include name="Recently_Updated_Test"/>
+          <include name="Russ_Test"/>
+          <include name="Recently_UpdatedOther_Test"/>
+          <include name="Recently_UpdatedFolder_Test"/>
+          <include name="Russ_Groups"/>
+          <include name="Recently_UpdatedDocs_Test"/>
+          <include name="Setup"/>
+          <include name="Navigation_Test"/>
+          <include name="Bad_Login_Test"/>
+          <include name="CleanupFailedTestcase"/>
+          <include name="EndSuite"/>
+        </methods>
+      </class> <!-- bst.cpo.automation.dm.tests.RussTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

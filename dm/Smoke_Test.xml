@@ -1,0 +1,75 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BST_CPO_DM_Test" verbose="1">
+
+	<!-- QA Basic User Names and Passwords -->
+	<parameter name="DM_QAUser6" value="slaqa06" />
+	<parameter name="DM_QAUser6_Password" value="test123#" />	
+	<parameter name="DM_QAAuto1" value="slaqaauto1" />
+	<parameter name="DM_QAAuto1_Password" value="test123#" />
+	<parameter name="DM_QA07" value="slaqa07" />
+	<parameter name="DM_QA07_Password" value="test123#" />
+
+	<!-- QA2 Automation users-->
+	<parameter name="DM_QA90" value="rt9User90" />
+	<parameter name="DM_QA90_Password" value="$harp123" />
+	<parameter name="DM_QA91" value="rt9user91" />
+	<parameter name="DM_QA91_Password" value="$harp123" />
+	<parameter name="DM_QABA" value="rt9ba01" />
+	<parameter name="DM_QABA_Password" value="$harp123" />
+		
+	<!--URL Environments -->
+	<parameter name="DM_QA2" value="https://usqa2-dm.sharpcloudportal.com" />
+	<parameter name="DM_DEVCPO2" value="http://devcpo2-auth.sharpb2bcloud.com/" />
+	<parameter name="DM_QA" value="https://qadm.sharpb2bcloud.com/" />
+	<parameter name="DM_DEV" value="https://devdm.sharpb2bcloud.com/" />
+	<parameter name="DM_PROD" value="https://www.sharpcloudportal.com/" />
+	<parameter name="DM_EU_DEV" value="https://devcpo.sharpcloudportal.eu/" />
+	<parameter name="DM_EU_PROD" value="https://www.sharpcloudportal.eu/" />	
+
+	<!-- Under Test Variables -->
+	<parameter name="SiteUnderTest" value="DM_QA2" />
+	<parameter name="BrowserUnderTest" value="Firefox" />
+	<parameter name="BasicUserUnderTest" value="DM_QA90" />
+	<parameter name="AdminUserUnderTest" value="DM_QABA" />
+	
+	<!-- Specify tests to run here -->
+	<test name="DM - SmokeTest" preserve-order="true">
+		<classes>
+			<class name="bst.cpo.automation.dm.tests.SmokeTest">
+				<methods>
+					<include name="Bad_Login"/>
+					<include name="Good_Login"/>
+					<!--
+					<include name="Dashboard_Expand_Collapse_Gadgets"/>
+					<include name="Help_Main_Nav"/>
+					<include name="Help_Footer_Link"/>
+					<include name="Terms_Of_Use_Footer_Link"/>
+					<include name="Privacy_Footer_Link"/>
+					<include name="Search_User"/>
+					<include name="Subscribe_My_Docs_Notifications"/>
+					<include name="Add_Folders"/>
+					<include name="Rename_Folder"/>
+					<include name="Add_Description_Folder"/>
+					<include name="Add_Note_Folder"/>
+					<include name="Copy_Folder"/>
+					<include name="Move_Folder"/>
+					<include name="Upload_Image"/>
+					<include name="Add_Description_File"/>
+					<include name="Add_Note_File"/>
+					<include name="Copy_File"/>
+					<include name="Move_File"/>
+					<include name="Upload_Revised_File"/>
+					<include name="Revert_File"/>
+					<include name="Send_Link"/>
+					<include name="File_History"/>
+					<include name="Delete_Guest_Folder_File"/>
+					<include name="Delete_Guest_Folder_Folder"/>
+					<include name="Delete_File_Trash"/>
+					-->
+					<include name="Restore_Folder"/>
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

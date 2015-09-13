@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[***** Site Under Test: DM_USQA2]]>
+    </line>
+    <line>
+      <![CDATA[***** User Running Test: rholm]]>
+    </line>
+    <line>
+      <![CDATA[Starting DM and DS Test]]>
+    </line>
+    <line>
+      <![CDATA[***** Starting DS and DM Test: ]]>
+    </line>
+    <line>
+      <![CDATA[DS Icon is Online and Synced.]]>
+    </line>
+    <line>
+      <![CDATA[***** TEST PASSED: DSDM_Test at Mon Jun 22 12-49-58 CDT 2015]]>
+    </line>
+    <line>
+      <![CDATA[Starting Open_Folder_Test test]]>
+    </line>
+    <line>
+      <![CDATA[***** Starting Test: ]]>
+    </line>
+    <line>
+      <![CDATA[DS Icon is Online and Synced.]]>
+    </line>
+    <line>
+      <![CDATA[***** TEST PASSED: Open_Folder_Test at Mon Jun 22 12-50-06 CDT 2015]]>
+    </line>
+    <line>
+      <![CDATA[Starting Settings_Test]]>
+    </line>
+    <line>
+      <![CDATA[DS Icon is Online and Synced.]]>
+    </line>
+    <line>
+      <![CDATA[***** TEST PASSED: Settings_Test at Mon Jun 22 12-50-20 CDT 2015]]>
+    </line>
+    <line>
+      <![CDATA[Starting General_Tab_Test]]>
+    </line>
+    <line>
+      <![CDATA[***** TEST PASSED: General_Tab_Test at Mon Jun 22 12-50-24 CDT 2015]]>
+    </line>
+    <line>
+      <![CDATA[Starting Quota_Info_Test]]>
+    </line>
+    <line>
+      <![CDATA[Found quota info in log: (used/versions/trash/total) = (0.0, 0.0, 0.0, 10.0)]]>
+    </line>
+    <line>
+      <![CDATA[Quota Used = '0.0' GB.]]>
+    </line>
+    <line>
+      <![CDATA[Quota Version = '0.0' GB.]]>
+    </line>
+    <line>
+      <![CDATA[Quota Trash = '0.0' GB.]]>
+    </line>
+    <line>
+      <![CDATA[Quota Allocated = '10.0' GB.]]>
+    </line>
+    <line>
+      <![CDATA[Quota Remaining = '10.0' GB.]]>
+    </line>
+    <line>
+      <![CDATA[***** TEST PASSED: Quota_Info_Test at Mon Jun 22 12-50-24 CDT 2015]]>
+    </line>
+    <line>
+      <![CDATA[Attempting to find Actual storage usage in the logs.]]>
+    </line>
+    <line>
+      <![CDATA[Last quota entry in logs at: 2015-06-22 12:50:22,296]]>
+    </line>
+    <line>
+      <![CDATA[***** TEST PASSED: Get_Log_Time_Test at Mon Jun 22 12-50-24 CDT 2015]]>
+    </line>
+    <line>
+      <![CDATA[***** Tests have Finished ]]>
+    </line>
+    <line>
+      <![CDATA[WebDriver was already closed]]>
+    </line>
+    <line>
+      <![CDATA[***** Suite has Finished]]>
+    </line>
+  </reporter-output>
+  <suite name="BST_CPO_DS_Test" duration-ms="65622" started-at="2015-06-22T17:49:20Z" finished-at="2015-06-22T17:50:25Z">
+    <groups>
+    </groups>
+    <test name="DS - Regression Test" duration-ms="65622" started-at="2015-06-22T17:49:20Z" finished-at="2015-06-22T17:50:25Z">
+      <class name="bst.cpo.automation.ds.tests.BasicUserTest">
+        <test-method status="PASS" signature="Setup(org.testng.ITestContext)[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="Setup" is-config="true" duration-ms="5714" started-at="2015-06-22T12:49:20Z" finished-at="2015-06-22T12:49:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@1f0a6709]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** Site Under Test: DM_USQA2]]>
+            </line>
+            <line>
+              <![CDATA[***** User Running Test: rholm]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="DSDM_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="DSDM_Test" duration-ms="32610" started-at="2015-06-22T12:49:25Z" finished-at="2015-06-22T12:49:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting DM and DS Test]]>
+            </line>
+            <line>
+              <![CDATA[***** Starting DS and DM Test: ]]>
+            </line>
+            <line>
+              <![CDATA[DS Icon is Online and Synced.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DSDM_Test -->
+        <test-method status="PASS" signature="CleanupFailedTestcase(org.testng.ITestResult)[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="CleanupFailedTestcase" is-config="true" duration-ms="3" started-at="2015-06-22T12:49:58Z" finished-at="2015-06-22T12:49:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DSDM_Test status=SUCCESS method=BasicUserTest.DSDM_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93] output=Starting DM and DS Test]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** TEST PASSED: DSDM_Test at Mon Jun 22 12-49-58 CDT 2015]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CleanupFailedTestcase -->
+        <test-method status="PASS" signature="Open_Folder_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="Open_Folder_Test" duration-ms="7938" started-at="2015-06-22T12:49:58Z" finished-at="2015-06-22T12:50:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Open_Folder_Test test]]>
+            </line>
+            <line>
+              <![CDATA[***** Starting Test: ]]>
+            </line>
+            <line>
+              <![CDATA[DS Icon is Online and Synced.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Open_Folder_Test -->
+        <test-method status="PASS" signature="CleanupFailedTestcase(org.testng.ITestResult)[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="CleanupFailedTestcase" is-config="true" duration-ms="1" started-at="2015-06-22T12:50:06Z" finished-at="2015-06-22T12:50:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Open_Folder_Test status=SUCCESS method=BasicUserTest.Open_Folder_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93] output=Starting Open_Folder_Test test]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** TEST PASSED: Open_Folder_Test at Mon Jun 22 12-50-06 CDT 2015]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CleanupFailedTestcase -->
+        <test-method status="PASS" signature="Settings_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="Settings_Test" duration-ms="13597" started-at="2015-06-22T12:50:06Z" finished-at="2015-06-22T12:50:20Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Settings_Test]]>
+            </line>
+            <line>
+              <![CDATA[DS Icon is Online and Synced.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Settings_Test -->
+        <test-method status="PASS" signature="CleanupFailedTestcase(org.testng.ITestResult)[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="CleanupFailedTestcase" is-config="true" duration-ms="1" started-at="2015-06-22T12:50:20Z" finished-at="2015-06-22T12:50:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Settings_Test status=SUCCESS method=BasicUserTest.Settings_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93] output=Starting Settings_Test]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** TEST PASSED: Settings_Test at Mon Jun 22 12-50-20 CDT 2015]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CleanupFailedTestcase -->
+        <test-method status="PASS" signature="General_Tab_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="General_Tab_Test" duration-ms="4446" started-at="2015-06-22T12:50:20Z" finished-at="2015-06-22T12:50:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting General_Tab_Test]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- General_Tab_Test -->
+        <test-method status="PASS" signature="CleanupFailedTestcase(org.testng.ITestResult)[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="CleanupFailedTestcase" is-config="true" duration-ms="0" started-at="2015-06-22T12:50:24Z" finished-at="2015-06-22T12:50:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=General_Tab_Test status=SUCCESS method=BasicUserTest.General_Tab_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93] output=Starting General_Tab_Test]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** TEST PASSED: General_Tab_Test at Mon Jun 22 12-50-24 CDT 2015]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CleanupFailedTestcase -->
+        <test-method status="PASS" signature="Quota_Info_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="Quota_Info_Test" duration-ms="14" started-at="2015-06-22T12:50:24Z" finished-at="2015-06-22T12:50:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Starting Quota_Info_Test]]>
+            </line>
+            <line>
+              <![CDATA[Found quota info in log: (used/versions/trash/total) = (0.0, 0.0, 0.0, 10.0)]]>
+            </line>
+            <line>
+              <![CDATA[Quota Used = '0.0' GB.]]>
+            </line>
+            <line>
+              <![CDATA[Quota Version = '0.0' GB.]]>
+            </line>
+            <line>
+              <![CDATA[Quota Trash = '0.0' GB.]]>
+            </line>
+            <line>
+              <![CDATA[Quota Allocated = '10.0' GB.]]>
+            </line>
+            <line>
+              <![CDATA[Quota Remaining = '10.0' GB.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Quota_Info_Test -->
+        <test-method status="PASS" signature="CleanupFailedTestcase(org.testng.ITestResult)[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="CleanupFailedTestcase" is-config="true" duration-ms="0" started-at="2015-06-22T12:50:24Z" finished-at="2015-06-22T12:50:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Quota_Info_Test status=SUCCESS method=BasicUserTest.Quota_Info_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93] output=Starting Quota_Info_Test]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** TEST PASSED: Quota_Info_Test at Mon Jun 22 12-50-24 CDT 2015]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CleanupFailedTestcase -->
+        <test-method status="PASS" signature="Get_Log_Time_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="Get_Log_Time_Test" duration-ms="4" started-at="2015-06-22T12:50:24Z" finished-at="2015-06-22T12:50:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Attempting to find Actual storage usage in the logs.]]>
+            </line>
+            <line>
+              <![CDATA[Last quota entry in logs at: 2015-06-22 12:50:22,296]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Get_Log_Time_Test -->
+        <test-method status="PASS" signature="CleanupFailedTestcase(org.testng.ITestResult)[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="CleanupFailedTestcase" is-config="true" duration-ms="1" started-at="2015-06-22T12:50:24Z" finished-at="2015-06-22T12:50:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Get_Log_Time_Test status=SUCCESS method=BasicUserTest.Get_Log_Time_Test()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93] output=Attempting to find Actual storage usage in the logs.]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** TEST PASSED: Get_Log_Time_Test at Mon Jun 22 12-50-24 CDT 2015]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CleanupFailedTestcase -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="Teardown" is-config="true" duration-ms="1276" started-at="2015-06-22T12:50:24Z" finished-at="2015-06-22T12:50:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[***** Tests have Finished ]]>
+            </line>
+            <line>
+              <![CDATA[WebDriver was already closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="EndSuite()[pri:0, instance:bst.cpo.automation.ds.tests.BasicUserTest@33573e93]" name="EndSuite" is-config="true" duration-ms="1" started-at="2015-06-22T12:50:25Z" finished-at="2015-06-22T12:50:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[***** Suite has Finished]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EndSuite -->
+      </class> <!-- bst.cpo.automation.ds.tests.BasicUserTest -->
+    </test> <!-- DS - Regression Test -->
+  </suite> <!-- BST_CPO_DS_Test -->
+</testng-results>

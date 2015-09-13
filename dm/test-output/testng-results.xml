@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[***** Site Under Test: DM_QA2]]>
+    </line>
+    <line>
+      <![CDATA[***** User Running Test: rholm]]>
+    </line>
+    <line>
+      <![CDATA[Begin Bad_Login]]>
+    </line>
+    <line>
+      <![CDATA[***** Starting Test: ]]>
+    </line>
+    <line>
+      <![CDATA[Attempting to log in user: badlogin]]>
+    </line>
+    <line>
+      <![CDATA[Looking for Div MessageDialog By.id ...]]>
+    </line>
+    <line>
+      <![CDATA[Found bad login information.]]>
+    </line>
+    <line>
+      <![CDATA[***** TEST PASSED: Bad_Login at Wed Jun 24 13-23-13 CDT 2015]]>
+    </line>
+    <line>
+      <![CDATA[Begin: Good_Login]]>
+    </line>
+    <line>
+      <![CDATA[Attempting to log in user: rt9User90]]>
+    </line>
+    <line>
+      <![CDATA[Nav Tree Header = 'Home']]>
+    </line>
+    <line>
+      <![CDATA[***** TEST PASSED: Good_Login at Wed Jun 24 13-23-26 CDT 2015]]>
+    </line>
+    <line>
+      <![CDATA[Begin: Copy_Folder]]>
+    </line>
+    <line>
+      <![CDATA[Nav Tree Header = 'Home']]>
+    </line>
+    <line>
+      <![CDATA[Nav: My Docs]]>
+    </line>
+    <line>
+      <![CDATA[Nav Tree Header = 'My docs']]>
+    </line>
+    <line>
+      <![CDATA[Check: Copy/Paste control should not be visible before file selected.]]>
+    </line>
+    <line>
+      <![CDATA[Folder1 checkbox was previously not checked.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking 'Folder1' checkbox.]]>
+    </line>
+    <line>
+      <![CDATA[Folder1 checkbox is now checked.]]>
+    </line>
+    <line>
+      <![CDATA[Check: Copy/Paste control should be visible after file selected.]]>
+    </line>
+    <line>
+      <![CDATA[Clicking 'copy' in Copy/Paste control.]]>
+    </line>
+    <line>
+      <![CDATA[Check: '1 document(s) copied' pop-up should be presented to user.]]>
+    </line>
+    <line>
+      <![CDATA['1 document(s) copied' pop-up found!]]>
+    </line>
+    <line>
+      <![CDATA[Clicking 'paste' in Copy/Paste control.]]>
+    </line>
+    <line>
+      <![CDATA[Check: '1 document(s) pasted' pop-up should be presented to user.]]>
+    </line>
+    <line>
+      <![CDATA['1 document(s) pasted' pop-up found!]]>
+    </line>
+    <line>
+      <![CDATA[Check: Looking for 'Folder1 - Copy']]>
+    </line>
+    <line>
+      <![CDATA[***** TEST PASSED: Copy_Folder at Wed Jun 24 13-23-31 CDT 2015]]>
+    </line>
+    <line>
+      <![CDATA[***** Tests have Finished ]]>
+    </line>
+    <line>
+      <![CDATA[***** Suite has Finished]]>
+    </line>
+  </reporter-output>
+  <suite name="BST_CPO_DM_Test" duration-ms="26874" started-at="2015-06-24T18:23:04Z" finished-at="2015-06-24T18:23:31Z">
+    <groups>
+    </groups>
+    <test name="DM - SmokeTest" duration-ms="26874" started-at="2015-06-24T18:23:04Z" finished-at="2015-06-24T18:23:31Z">
+      <class name="bst.cpo.automation.dm.tests.SmokeTest">
+        <test-method status="PASS" signature="Setup(org.testng.ITestContext)[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea]" name="Setup" is-config="true" duration-ms="4643" started-at="2015-06-24T13:23:04Z" finished-at="2015-06-24T13:23:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@7cd9e285]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** Site Under Test: DM_QA2]]>
+            </line>
+            <line>
+              <![CDATA[***** User Running Test: rholm]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method status="PASS" signature="Bad_Login()[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea]" name="Bad_Login" duration-ms="4642" started-at="2015-06-24T13:23:09Z" finished-at="2015-06-24T13:23:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Begin Bad_Login]]>
+            </line>
+            <line>
+              <![CDATA[***** Starting Test: ]]>
+            </line>
+            <line>
+              <![CDATA[Attempting to log in user: badlogin]]>
+            </line>
+            <line>
+              <![CDATA[Looking for Div MessageDialog By.id ...]]>
+            </line>
+            <line>
+              <![CDATA[Found bad login information.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Bad_Login -->
+        <test-method status="PASS" signature="CleanupFailedTestcase(org.testng.ITestResult)[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea]" name="CleanupFailedTestcase" is-config="true" duration-ms="3" started-at="2015-06-24T13:23:13Z" finished-at="2015-06-24T13:23:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Bad_Login status=SUCCESS method=SmokeTest.Bad_Login()[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea] output=Begin Bad_Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** TEST PASSED: Bad_Login at Wed Jun 24 13-23-13 CDT 2015]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CleanupFailedTestcase -->
+        <test-method status="PASS" signature="Good_Login()[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea]" name="Good_Login" duration-ms="12154" started-at="2015-06-24T13:23:13Z" finished-at="2015-06-24T13:23:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Begin: Good_Login]]>
+            </line>
+            <line>
+              <![CDATA[Attempting to log in user: rt9User90]]>
+            </line>
+            <line>
+              <![CDATA[Nav Tree Header = 'Home']]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Good_Login -->
+        <test-method status="PASS" signature="CleanupFailedTestcase(org.testng.ITestResult)[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea]" name="CleanupFailedTestcase" is-config="true" duration-ms="1" started-at="2015-06-24T13:23:26Z" finished-at="2015-06-24T13:23:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Good_Login status=SUCCESS method=SmokeTest.Good_Login()[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea] output=Begin: Good_Login]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** TEST PASSED: Good_Login at Wed Jun 24 13-23-26 CDT 2015]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CleanupFailedTestcase -->
+        <test-method status="PASS" signature="Copy_Folder()[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea]" name="Copy_Folder" duration-ms="5422" started-at="2015-06-24T13:23:26Z" finished-at="2015-06-24T13:23:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Begin: Copy_Folder]]>
+            </line>
+            <line>
+              <![CDATA[Nav Tree Header = 'Home']]>
+            </line>
+            <line>
+              <![CDATA[Nav: My Docs]]>
+            </line>
+            <line>
+              <![CDATA[Nav Tree Header = 'My docs']]>
+            </line>
+            <line>
+              <![CDATA[Check: Copy/Paste control should not be visible before file selected.]]>
+            </line>
+            <line>
+              <![CDATA[Folder1 checkbox was previously not checked.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking 'Folder1' checkbox.]]>
+            </line>
+            <line>
+              <![CDATA[Folder1 checkbox is now checked.]]>
+            </line>
+            <line>
+              <![CDATA[Check: Copy/Paste control should be visible after file selected.]]>
+            </line>
+            <line>
+              <![CDATA[Clicking 'copy' in Copy/Paste control.]]>
+            </line>
+            <line>
+              <![CDATA[Check: '1 document(s) copied' pop-up should be presented to user.]]>
+            </line>
+            <line>
+              <![CDATA['1 document(s) copied' pop-up found!]]>
+            </line>
+            <line>
+              <![CDATA[Clicking 'paste' in Copy/Paste control.]]>
+            </line>
+            <line>
+              <![CDATA[Check: '1 document(s) pasted' pop-up should be presented to user.]]>
+            </line>
+            <line>
+              <![CDATA['1 document(s) pasted' pop-up found!]]>
+            </line>
+            <line>
+              <![CDATA[Check: Looking for 'Folder1 - Copy']]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- Copy_Folder -->
+        <test-method status="PASS" signature="CleanupFailedTestcase(org.testng.ITestResult)[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea]" name="CleanupFailedTestcase" is-config="true" duration-ms="0" started-at="2015-06-24T13:23:31Z" finished-at="2015-06-24T13:23:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=Copy_Folder status=SUCCESS method=SmokeTest.Copy_Folder()[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea] output=Begin: Copy_Folder]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[***** TEST PASSED: Copy_Folder at Wed Jun 24 13-23-31 CDT 2015]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CleanupFailedTestcase -->
+        <test-method status="PASS" signature="EndSuite()[pri:0, instance:bst.cpo.automation.dm.tests.SmokeTest@51c93bea]" name="EndSuite" is-config="true" duration-ms="1" started-at="2015-06-24T13:23:31Z" finished-at="2015-06-24T13:23:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[***** Tests have Finished ]]>
+            </line>
+            <line>
+              <![CDATA[***** Suite has Finished]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EndSuite -->
+      </class> <!-- bst.cpo.automation.dm.tests.SmokeTest -->
+    </test> <!-- DM - SmokeTest -->
+  </suite> <!-- BST_CPO_DM_Test -->
+</testng-results>

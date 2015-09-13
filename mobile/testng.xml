@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BST_CPO_MOBILE_Test" verbose="1" >
+  	<test name="Mobile Test" preserve-order="true">
+     <classes>      
+      <class name="bst.cpo.automation.mobile.Appium">
+        <methods>  
+         <include name="Login_Test" />
+        </methods>
+      </class>                   
+  	 </classes>    
+    </test>          
+</suite>

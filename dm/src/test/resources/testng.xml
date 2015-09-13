@@ -1,0 +1,51 @@
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="BST_CPO_DM_Test" verbose="2" >
+
+    <parameter name ="SiteUnderTest" value="DM_QA" />
+    <parameter name ="BrowserUnderTest" value="Firefox" />
+    <parameter name ="BasicUserUnderTest" value="DM_QAUser6"/>
+    <parameter name ="AdminUserUnderTest" value="DM_QAAdmin1"/>
+    
+    <!--URL Environments-->
+    <parameter name ="DM_QA" value="https://qadm.sharpb2bcloud.com/" />
+    <parameter name ="DM_DEV" value="https://devdm.sharpb2bcloud.com/" />
+    <parameter name ="DM_PROD" value="https://www.sharpcloudportal.com/"/>
+    <parameter name ="DM_EU_DEV" value="https://devcpo.sharpcloudportal.eu/" />
+    <parameter name ="DM_EU_PROD" value="https://www.sharpcloudportal.eu/" />
+    
+    <!-- QA Basic User Names and Passwords-->
+    <parameter name="DM_QAUser1"      		value="slaqa01"/>
+    <parameter name="DM_QAUser1_Password"  	value="test123#"/>
+    <parameter name="DM_QAUser2"      		value="slaqa02"/>
+    <parameter name="DM_QAUser2_Password"  	value="test123#"/>
+    <parameter name="DM_QAUser3"      		value="slaqa03"/>
+    <parameter name="DM_QAUser3_Password"  	value="test123#"/>
+    <parameter name="DM_QAUser4"      		value="slaqa04"/>
+    <parameter name="DM_QAUser4_Password"  	value="test123#"/>
+    <parameter name="DM_QAUser5"      		value="slaqa05"/>
+    <parameter name="DM_QAUser5_Password"  	value="test123#"/>
+    <parameter name="DM_QAUser6"      		value="slaqa06"/>
+    <parameter name="DM_QAUser6_Password"  value="test123#"/>
+    <parameter name="DM_QAUser7"      value="slaqa07"/>
+    <parameter name="DM_QAUser7_Password"  value="test123#"/>
+    
+<!--   <parameter name="selenium.host" value="localhost" />
+  <parameter name="selenium.port" value="3737" />
+  <parameter name="selenium.browser" value="*firefox" />
+  <parameter name="selenium.url" value="http://demo.opensourcecms.com/wordpress/" /> -->
+ 
+  <test name="DM - Basic User Test" preserve-order="true">
+    <classes>
+      <class name="bst.cpo.automation.dm.tests.BasicUserTest">
+        <methods>
+          <include name="Login_Test" />
+          <include name="ExpectedFail_Test" />
+          <include name="Recently_Updated_Test" />
+          <include name="Welcome_Section_Test" />
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

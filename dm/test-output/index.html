@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />  
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-BST_CPO_DM_Test">
+              <span class="suite-name border-passed">BST_CPO_DM_Test</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-BST_CPO_DM_Test">
+                    <span>C:\workspace\cpo-automation-framework\dm\Smoke_Test.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-BST_CPO_DM_Test">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-BST_CPO_DM_Test">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-BST_CPO_DM_Test">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-BST_CPO_DM_Test">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-BST_CPO_DM_Test">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-BST_CPO_DM_Test">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">3 methods,   3 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-BST_CPO_DM_Test" class="hide-methods passed suite-BST_CPO_DM_Test"> (hide)</a> <!-- hide-methods passed suite-BST_CPO_DM_Test -->
+                      <a href="#" panel-name="suite-BST_CPO_DM_Test" class="show-methods passed suite-BST_CPO_DM_Test"> (show)</a> <!-- show-methods passed suite-BST_CPO_DM_Test -->
+                    </span>
+                    <div class="method-list-content passed suite-BST_CPO_DM_Test">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BST_CPO_DM_Test" title="bst.cpo.automation.dm.tests.SmokeTest" hash-for-method="Bad_Login">Bad_Login</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BST_CPO_DM_Test" title="bst.cpo.automation.dm.tests.SmokeTest" hash-for-method="Copy_Folder">Copy_Folder</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-BST_CPO_DM_Test" title="bst.cpo.automation.dm.tests.SmokeTest" hash-for-method="Good_Login">Good_Login</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-BST_CPO_DM_Test -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-BST_CPO_DM_Test" class="panel BST_CPO_DM_Test">
+          <div class="suite-BST_CPO_DM_Test-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">bst.cpo.automation.dm.tests.SmokeTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="Bad_Login">
+                  </a> <!-- Bad_Login -->
+                  <span class="method-name">Bad_Login</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Copy_Folder">
+                  </a> <!-- Copy_Folder -->
+                  <span class="method-name">Copy_Folder</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="Good_Login">
+                  </a> <!-- Good_Login -->
+                  <span class="method-name">Good_Login</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-BST_CPO_DM_Test-class-passed -->
+        </div> <!-- panel BST_CPO_DM_Test -->
+        <div panel-name="test-xml-BST_CPO_DM_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\workspace\cpo-automation-framework\dm\Smoke_Test.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite name=&quot;BST_CPO_DM_Test&quot;&gt;
+  &lt;parameter name=&quot;DM_QA2&quot; value=&quot;https://usqa2-dm.sharpcloudportal.com&quot;/&gt;
+  &lt;parameter name=&quot;DM_DEVCPO2&quot; value=&quot;http://devcpo2-auth.sharpb2bcloud.com/&quot;/&gt;
+  &lt;parameter name=&quot;DM_QAAuto1_Password&quot; value=&quot;test123#&quot;/&gt;
+  &lt;parameter name=&quot;DM_QA90&quot; value=&quot;rt9User90&quot;/&gt;
+  &lt;parameter name=&quot;DM_QA07&quot; value=&quot;slaqa07&quot;/&gt;
+  &lt;parameter name=&quot;DM_QA91&quot; value=&quot;rt9user91&quot;/&gt;
+  &lt;parameter name=&quot;DM_QABA&quot; value=&quot;rt9ba01&quot;/&gt;
+  &lt;parameter name=&quot;BasicUserUnderTest&quot; value=&quot;DM_QA90&quot;/&gt;
+  &lt;parameter name=&quot;DM_QA91_Password&quot; value=&quot;$harp123&quot;/&gt;
+  &lt;parameter name=&quot;DM_DEV&quot; value=&quot;https://devdm.sharpb2bcloud.com/&quot;/&gt;
+  &lt;parameter name=&quot;DM_EU_PROD&quot; value=&quot;https://www.sharpcloudportal.eu/&quot;/&gt;
+  &lt;parameter name=&quot;DM_QA&quot; value=&quot;https://qadm.sharpb2bcloud.com/&quot;/&gt;
+  &lt;parameter name=&quot;DM_QA90_Password&quot; value=&quot;$harp123&quot;/&gt;
+  &lt;parameter name=&quot;DM_PROD&quot; value=&quot;https://www.sharpcloudportal.com/&quot;/&gt;
+  &lt;parameter name=&quot;AdminUserUnderTest&quot; value=&quot;DM_QABA&quot;/&gt;
+  &lt;parameter name=&quot;DM_QAUser6_Password&quot; value=&quot;test123#&quot;/&gt;
+  &lt;parameter name=&quot;DM_QAAuto1&quot; value=&quot;slaqaauto1&quot;/&gt;
+  &lt;parameter name=&quot;DM_EU_DEV&quot; value=&quot;https://devcpo.sharpcloudportal.eu/&quot;/&gt;
+  &lt;parameter name=&quot;DM_QAUser6&quot; value=&quot;slaqa06&quot;/&gt;
+  &lt;parameter name=&quot;DM_QA07_Password&quot; value=&quot;test123#&quot;/&gt;
+  &lt;parameter name=&quot;DM_QABA_Password&quot; value=&quot;$harp123&quot;/&gt;
+  &lt;parameter name=&quot;BrowserUnderTest&quot; value=&quot;Firefox&quot;/&gt;
+  &lt;parameter name=&quot;SiteUnderTest&quot; value=&quot;DM_QA2&quot;/&gt;
+  &lt;test name=&quot;DM - SmokeTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;bst.cpo.automation.dm.tests.SmokeTest&quot;&gt;
+        &lt;methods&gt;
+          &lt;include name=&quot;Bad_Login&quot;/&gt;
+          &lt;include name=&quot;Good_Login&quot;/&gt;
+          &lt;include name=&quot;Copy_Folder&quot;/&gt;
+        &lt;/methods&gt;
+      &lt;/class&gt; &lt;!-- bst.cpo.automation.dm.tests.SmokeTest --&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- DM - SmokeTest --&gt;
+&lt;/suite&gt; &lt;!-- BST_CPO_DM_Test --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-BST_CPO_DM_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for BST_CPO_DM_Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">DM - SmokeTest (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-BST_CPO_DM_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for BST_CPO_DM_Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-BST_CPO_DM_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for BST_CPO_DM_Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_BST_CPO_DM_Test');
+function tableData_BST_CPO_DM_Test() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(3);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'Good_Login')
+data.setCell(0, 2, 'bst.cpo.automation.dm.tests.SmokeTest')
+data.setCell(0, 3, 12154);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'Copy_Folder')
+data.setCell(1, 2, 'bst.cpo.automation.dm.tests.SmokeTest')
+data.setCell(1, 3, 5422);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'Bad_Login')
+data.setCell(2, 2, 'bst.cpo.automation.dm.tests.SmokeTest')
+data.setCell(2, 3, 4642);
+window.suiteTableData['BST_CPO_DM_Test']= { tableData: data, tableDiv: 'times-div-BST_CPO_DM_Test'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 22 seconds</span>
+              <div id="times-div-BST_CPO_DM_Test">
+              </div> <!-- times-div-BST_CPO_DM_Test -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-BST_CPO_DM_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for BST_CPO_DM_Test</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">Good_Login</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Begin: Good_Login</span>
+                <span class="reporter-method-output">Attempting to log in user: rt9User90</span>
+                <span class="reporter-method-output">Nav Tree Header = 'Home'</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">Copy_Folder</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Begin: Copy_Folder</span>
+                <span class="reporter-method-output">Nav Tree Header = 'Home'</span>
+                <span class="reporter-method-output">Nav: My Docs</span>
+                <span class="reporter-method-output">Nav Tree Header = 'My docs'</span>
+                <span class="reporter-method-output">Check: Copy/Paste control should not be visible before file selected.</span>
+                <span class="reporter-method-output">Folder1 checkbox was previously not checked.</span>
+                <span class="reporter-method-output">Clicking 'Folder1' checkbox.</span>
+                <span class="reporter-method-output">Folder1 checkbox is now checked.</span>
+                <span class="reporter-method-output">Check: Copy/Paste control should be visible after file selected.</span>
+                <span class="reporter-method-output">Clicking 'copy' in Copy/Paste control.</span>
+                <span class="reporter-method-output">Check: '1 document(s) copied' pop-up should be presented to user.</span>
+                <span class="reporter-method-output">'1 document(s) copied' pop-up found!</span>
+                <span class="reporter-method-output">Clicking 'paste' in Copy/Paste control.</span>
+                <span class="reporter-method-output">Check: '1 document(s) pasted' pop-up should be presented to user.</span>
+                <span class="reporter-method-output">'1 document(s) pasted' pop-up found!</span>
+                <span class="reporter-method-output">Check: Looking for 'Folder1 - Copy'</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">Bad_Login</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Begin Bad_Login</span>
+                <span class="reporter-method-output">***** Starting Test: </span>
+                <span class="reporter-method-output">Attempting to log in user: badlogin</span>
+                <span class="reporter-method-output">Looking for Div MessageDialog By.id ...</span>
+                <span class="reporter-method-output">Found bad login information.</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-BST_CPO_DM_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">40 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">bst.cpo.automation.dm.tests.SmokeTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">Add_Folders</span>
+                <br/>
+                <span class="ignored-method-name">Dashboard_Expand_Collapse_Gadgets</span>
+                <br/>
+                <span class="ignored-method-name">Help_Main_Nav</span>
+                <br/>
+                <span class="ignored-method-name">Upload_Revised_File</span>
+                <br/>
+                <span class="ignored-method-name">Guest_Folder_Contents</span>
+                <br/>
+                <span class="ignored-method-name">Upload_Image</span>
+                <br/>
+                <span class="ignored-method-name">Help_Footer_Link</span>
+                <br/>
+                <span class="ignored-method-name">Delete_Guest_Folder_File</span>
+                <br/>
+                <span class="ignored-method-name">Add_Description_File</span>
+                <br/>
+                <span class="ignored-method-name">Image_File_Rotate</span>
+                <br/>
+                <span class="ignored-method-name">Move_File</span>
+                <br/>
+                <span class="ignored-method-name">Delete_Guest_Folder_Folder</span>
+                <br/>
+                <span class="ignored-method-name">Terms_Of_Use_Footer_Link</span>
+                <br/>
+                <span class="ignored-method-name">Search_User</span>
+                <br/>
+                <span class="ignored-method-name">File_History</span>
+                <br/>
+                <span class="ignored-method-name">Search_Image_File_Word</span>
+                <br/>
+                <span class="ignored-method-name">Sign_Out</span>
+                <br/>
+                <span class="ignored-method-name">Subscribe_My_Docs_Notifications</span>
+                <br/>
+                <span class="ignored-method-name">File_Summary</span>
+                <br/>
+                <span class="ignored-method-name">Send_Link</span>
+                <br/>
+                <span class="ignored-method-name">Tree_View_Layout</span>
+                <br/>
+                <span class="ignored-method-name">Add_Note_Folder</span>
+                <br/>
+                <span class="ignored-method-name">Search_Text_File_Word</span>
+                <br/>
+                <span class="ignored-method-name">Move_Folder</span>
+                <br/>
+                <span class="ignored-method-name">Add_Description_Folder</span>
+                <br/>
+                <span class="ignored-method-name">Copy_File</span>
+                <br/>
+                <span class="ignored-method-name">Privacy_Footer_Link</span>
+                <br/>
+                <span class="ignored-method-name">Rename_Folder</span>
+                <br/>
+                <span class="ignored-method-name">Unsubscribe_My_Docs_Notifications</span>
+                <br/>
+                <span class="ignored-method-name">Unsubscribe_File_Notifications</span>
+                <br/>
+                <span class="ignored-method-name">Revert_File</span>
+                <br/>
+                <span class="ignored-method-name">Folder_History</span>
+                <br/>
+                <span class="ignored-method-name">Image_File_Thumbnail</span>
+                <br/>
+                <span class="ignored-method-name">Subscribe_File_Notifications</span>
+                <br/>
+                <span class="ignored-method-name">Restore_Folder</span>
+                <br/>
+                <span class="ignored-method-name">Delete_File_Trash</span>
+                <br/>
+                <span class="ignored-method-name">Add_Note_File</span>
+                <br/>
+                <span class="ignored-method-name">My_Docs_Contents</span>
+                <br/>
+                <span class="ignored-method-name">Update_File_Meta_Data</span>
+                <br/>
+                <span class="ignored-method-name">Upload_File_Meta_Data</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-BST_CPO_DM_Test" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">bst.cpo.automation.dm.tests.SmokeTest</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <span class="method-name">Setup(org.testng.TestRunner@7cd9e285)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">Bad_Login</span>
+                <span class="method-start">4645 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">CleanupFailedTestcase([TestResult name=Bad_Login status=SUCCESS method=SmokeTest.Bad_Login()[pri:0, instance:bst.cpo.autom...)</span>
+                <span class="method-start">9287 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">Good_Login</span>
+                <span class="method-start">9290 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">CleanupFailedTestcase([TestResult name=Good_Login status=SUCCESS method=SmokeTest.Good_Login()[pri:0, instance:bst.cpo.aut...)</span>
+                <span class="method-start">21444 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="test-method">
+                <span class="method-name">Copy_Folder</span>
+                <span class="method-start">21445 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">CleanupFailedTestcase([TestResult name=Copy_Folder status=SUCCESS method=SmokeTest.Copy_Folder()[pri:0, instance:bst.cpo.a...)</span>
+                <span class="method-start">26867 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-suite after">
+                <span class="method-name">EndSuite</span>
+                <span class="method-start">26878 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

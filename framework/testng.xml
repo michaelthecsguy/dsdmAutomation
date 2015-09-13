@@ -1,0 +1,31 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="BST_CPO_DM_Test" verbose="1" >
+
+    <parameter name ="SiteUnderTest" value="DM_QA" />
+    <parameter name ="BrowserUnderTest" value="Firefox" />
+    <parameter name ="BasicUserUnderTest" value="DM_QAUser6"/>
+    <parameter name ="AdminUserUnderTest" value="DM_QAAdmin1"/>
+    
+    <!--URL Environments-->
+    <parameter name ="DM_QA" value="https://qadm.sharpb2bcloud.com/" />
+    <parameter name ="DM_DEV" value="https://devdm.sharpb2bcloud.com/" />
+    <parameter name ="DM_PROD" value="https://www.sharpcloudportal.com/"/>
+    <parameter name ="DM_EU_DEV" value="https://devcpo.sharpcloudportal.eu/" />
+    <parameter name ="DM_EU_PROD" value="https://www.sharpcloudportal.eu/" />
+    
+    <!-- QA Basic User Names and Passwords-->
+
+    <parameter name="DM_QAUser6"      		value="slaqa06"/>
+    <parameter name="DM_QAUser6_Password"  value="test123#"/>    
+ 
+  	<test name="DM - Basic User Test" preserve-order="true">
+    	<classes>
+      		<class name="bst.cpo.automation.dm.tests.BasicUserTest">
+        	<methods>
+          		<include name="Login_Test" />
+        	</methods>
+      		</class>                     
+    	</classes>
+  	</test>
+</suite>

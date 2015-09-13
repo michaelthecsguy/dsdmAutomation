@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [BST_CPO_DS_Test]">
+  <parameter name="DM_DEVCPO2" value="http://devcpo2-auth.sharpb2bcloud.com/"/>
+  <parameter name="DM_QA90" value="rt9user90"/>
+  <parameter name="DM_QABA" value="rt9ba01"/>
+  <parameter name="BasicUserUnderTest" value="DM_QA90"/>
+  <parameter name="DM_DEV" value="https://devdm.sharpb2bcloud.com/"/>
+  <parameter name="DM_QA" value="https://qadm.sharpb2bcloud.com/"/>
+  <parameter name="DM_EU_PROD" value="https://www.sharpcloudportal.eu/"/>
+  <parameter name="DM_QA90_Password" value="$harp123"/>
+  <parameter name="DM_PROD" value="https://www.sharpcloudportal.com/"/>
+  <parameter name="AdminUserUnderTest" value="DM_QABA"/>
+  <parameter name="DM_EU_DEV" value="https://devcpo.sharpcloudportal.eu/"/>
+  <parameter name="DM_USQA2" value="https://usqa2-dm.sharpcloudportal.com/"/>
+  <parameter name="DM_QABA_Password" value="$harp123"/>
+  <parameter name="BrowserUnderTest" value="Firefox"/>
+  <parameter name="SiteUnderTest" value="DM_USQA2"/>
+  <test name="DS - Regression Test(failed)">
+    <classes>
+      <class name="bst.cpo.automation.ds.tests.BasicUserTest">
+        <methods>
+          <include name="Teardown"/>
+          <include name="Setup"/>
+          <include name="CleanupFailedTestcase"/>
+          <include name="General_Tab_Test"/>
+          <include name="EndSuite"/>
+        </methods>
+      </class> <!-- bst.cpo.automation.ds.tests.BasicUserTest -->
+    </classes>
+  </test> <!-- DS - Regression Test(failed) -->
+</suite> <!-- Failed suite [BST_CPO_DS_Test] -->
